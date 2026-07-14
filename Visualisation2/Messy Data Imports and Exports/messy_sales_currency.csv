@@ -1,0 +1,5 @@
+﻿Currency,USD_Rate,Rate_Date,Notes
+USD,1.0000,2024-01-01,Base currency
+CAD,0.7400,2024-01-01,Sample training rate
+EUR,1.0900,2024-01-01,Sample training rate
+GBP,1.2700,2024-01-01,Sample training rate

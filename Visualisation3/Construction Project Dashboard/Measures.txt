@@ -1,0 +1,87 @@
+Task Count = COUNTROWS(Tasks)
+
+Completed Tasks =
+CALCULATE([Task Count], Tasks[Status] = "Complete")
+
+In Progress Tasks =
+CALCULATE([Task Count], Tasks[Status] = "In Progress")
+
+% Tasks Complete =
+DIVIDE([Completed Tasks], [Task Count])
+
+
+Weighted % Complete =
+DIVIDE(
+    SUMX(Tasks, Tasks[PercentComplete] * Tasks[PlannedDurationDays]),
+    SUMX(Tasks, 100 * Tasks[PlannedDurationDays])
+)
+
+
+Baseline Duration (Days) =
+SUMX(
+    Tasks,
+    DATEDIFF(Tasks[BaselineStart], Tasks[BaselineFinish], DAY)
+)
+
+Actual Duration (Days) =
+SUMX(
+    Tasks,
+    DATEDIFF(Tasks[ActualStart], Tasks[ActualFinish], DAY)
+)
+
+Schedule Variance (Days) =
+[Actual Duration (Days)] - [Baseline Duration (Days)]
+
+
+Total Budget Cost =
+SUM(Tasks[BudgetCostCAD])
+
+Total Actual Cost =
+SUM(Tasks[ActualCostCAD])
+
+Cost Variance =
+[Total Actual Cost] - [Total Budget Cost]
+
+Cost Variance % =
+DIVIDE([Cost Variance], [Total Budget Cost])
+
+
+Overdue Tasks =
+CALCULATE(
+    COUNTROWS(Tasks),
+    Tasks[Status] <> "Complete",
+    Tasks[ActualFinish] < TODAY()
+)
+
+
+High Priority Open Tasks =
+CALCULATE(
+    COUNTROWS(Tasks),
+    Tasks[Priority] = "High",
+    Tasks[Status] <> "Complete"
+)
+
+
+
+
+Page 1 — Project Overview
+
+Cards: Task Count, % Tasks Complete, Weighted % Complete, Schedule Variance, Cost Variance
+
+Bar: Tasks by Phase
+
+Donut: Status
+
+Page 2 — Gantt Schedule
+
+Gantt: TaskName + ActualStart/Finish + % Complete
+
+Slicers: Phase, Discipline, Priority, Status, Resource
+
+Page 3 — Cost & Risk
+
+Column: Budget vs Actual by Phase
+
+Table: Top 10 tasks by cost variance
+
+Cards: Overdue Tasks, High Priority Open Tasks

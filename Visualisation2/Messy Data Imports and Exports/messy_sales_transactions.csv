@@ -1,0 +1,449 @@
+﻿OrderID,OrderInfo,Product,Category,Region,SalesAmount,Currency,CustomerName,SalesRep,OrderStatus,Discount %,Units,SourceChannel,Notes
+NHF-10000,2024-01-13 | London | UK,Whole Wheat Pasta 500g,Pantry,Europe, 83.30 ,GBP,Bluebird Grocery,Daniel Brooks,Returned,0, 15 ,Retail,Phone order
+NHF-10001,23 Aug 2024 | Calgary | Canada,Sea Salt Crackers 250g,Snacks,north america,58.35,CAD,Lakeside Market,Sophie Tremblay,Cancelled,0%,6,Wholesale,VIP client
+NHF-10002,"Apr 22, 2024| Berlin | Germany",Maple Granola 500g,Breakfast,Europe,$211.47,EUR,Prime  Select  Stores,Priya Shah,Returned,,15,Online,
+NHF-10004,2024-07-16 | Paris | France,Dark Chocolate Bites 200g,Snacks,Europe,348.02, EUR , Fresh & Fine  ,Luca Rossi, Shipped,20%,34,Retail,Phone order
+NHF-10005,"Jun 06, 2024| Austin | USA",Maple Granola 500g,Breakfast,North America,,USD, Harborline Foods ,Daniel Brooks,Pending,0%,16,Online,Late entry
+NHF-10006,27 Apr 2024  |  Montreal  |  Canada,Maple Granola 500g,breakfast,North America,172.82, cad ,  Sunrise  Wellness  ,Daniel Brooks,processing,,22,Wholesale,
+NHF-10007,"Feb 08, 2024| Dublin | Ireland",Keto Trail Mix 300g,Snacks,Europe,78,EUR,HARVEST  HOUSE  ,,processing,N/A,7,Online,
+NHF-10008,2024/01/30 - Vancouver - Canada,Vanilla Protein Powder 1kg,Fitness,North America, 548.34 ,CAD,FAMILY  CHOICE  SUPERSTORE,,completed,0.15, 33 ,Distributor,Rush delivery
+NHF-10009, 2024-01-05 | Dublin | Ireland ,Extra Virgin Olive Oil 750ml,Pantry,Europe,$57.62,EUR,The Market Loft,A. Wong,Returned,0.1,5,Distributor,Late entry
+NHF-10010, 09/07/2024|London|UK,Maple Granola 500g,Breakfast,Europe,71.54, gbp , The Market Loft ,Priya Shah,Cancelled,,6,Online,
+NHF-10012,"Nov 13, 2024| New York | USA",Whole Wheat Pasta 500g,Pantry,North America,238,USD,PEAK PERFORMANCE GYM,A. Wong,Pending,N/A,11,Retail,VIP client
+NHF-10013,2024/06/18 - Toronto - Canada,Extra Virgin Olive Oil 750ml,Pantry,North America,111.58,CAD ,BLUEBIRD  GROCERY,A. Wong,Completed,0%,17,Retail,VIP client
+NHF-10015, 25 Jul 2024  |  Manchester  |  UK,Keto Trail Mix 300g,Snacks,Europe,,GBP,Lakeside Market,Sophie Tremblay,Pending,10%,9,Online,
+NHF-10016,2024-11-08 | Montreal | Canada,Dark Chocolate Bites 200g,Snacks,North America,179,CAD,HEALTHY LIVING DEPOT,,Pending,N/A,27,Wholesale,
+NHF-10017,18-08-2024 | London | UK,Whole Wheat Pasta 500g,Pantry,Europe,, gbp , Euro Taste Hub ,Priya Shah,completed, 0 % ,41,Wholesale,Rush delivery
+NHF-10018,08/02/2024 | Austin | USA,Vanilla Protein Powder 1kg,Fitness,North America,662.79,USD,  Everyday Essentials,Carlos Mendez, Shipped,N/A,15,Wholesale,VIP client
+NHF-10019,27 Jan 2024 | Munich | Germany,Whole Wheat Pasta 500g,Pantry,Europe,$232.82,EUR,  City Grocer,Luca Rossi, Shipped,0.2,42,Wholesale,Manual adjustment
+NHF-10021,"Dec 19, 2024| Austin | USA",Extra Virgin Olive Oil 750ml,Pantry,North America, 681.01 ,usd, Harborline Foods ,Sophie Tremblay,Cancelled, 15 % ,45,Distributor,Phone order
+NHF-10023,"May 22, 2024| Dublin | Ireland",Whole Wheat Pasta 500g,Pantry, Europe ,368.03,EUR,EURO TASTE HUB,,Pending,,30,Wholesale,Late entry
+NHF-10024,10-10-2024 | Munich | Germany ,Greek Yogurt Mix,Dairy,Europe, 272.27 ,EUR,,Nina Patel,completed,,48,Online,Rush delivery
+NHF-10025,2024/08/28 - Madrid - Spain,Dark Chocolate Bites 200g,Snacks,Europe,"138,06",EUR,  CITY GROCER,Megan O'Neil,processing,N/A,22,Retail,
+NHF-10026, 2024/05/15 - Montreal - Canada,Sparkling Water 12pk,Beverage,North America,47.59,CAD ,Lakeside Market,Jonas Weber,Pending,0.2,16,Distributor,Rush delivery
+NHF-10027,2024/05/19 - Madrid - Spain,Dark Chocolate Bites 200g,Snacks,Europe,54.78,EUR,Harborline  Foods,Nina Patel,Returned,0,6,Distributor,Manual adjustment
+NHF-10028,10/08/2024|Vancouver|Canada,Dark Chocolate Bites 200g,Snacks,North America,,CAD ,Cornerstone Retail,Sophie Tremblay,Pending, 5 % ,6,Distributor,
+NHF-10029,"Feb 28, 2024| Dublin | Ireland",Extra Virgin Olive Oil 750ml,pantry,Europe,817.08,EUR,Cornerstone Retail,Priya Shah,Returned, 20 % ,42,Wholesale,
+NHF-10030, 2024/10/09 - Paris - France,Dark Chocolate Bites 200g,Snacks,Europe,123.81, EUR ,Family Choice Superstore,Sophie Tremblay, Shipped,,21,Online,
+NHF-10031, 15 Nov 2024 | Paris | France,Berry Jam 340g,Pantry,Europe,422.50,EUR,  EVERYDAY ESSENTIALS,Megan O'Neil,processing,0,22,Distributor,Manual adjustment
+NHF-10032,2024/12/15 - Chicago - USA,Sparkling Water 12pk,Beverage, North America , 132.93 ,usd, CORNERSTONE RETAIL ,Luca Rossi, Shipped,N/A, 12 ,Wholesale,Phone order
+NHF-10034,"Jan 12, 2024 |  Paris  |  France",Tomato Basil Sauce 680g,Pantry,Europe, 14.50 , EUR ,Sunrise Wellness,Priya Shah,Completed,N/A,1,Distributor,
+NHF-10035, 11 May 2024 | Madrid | Spain,Almond Butter 340g,pantry,Europe,883.12,EUR, The Market Loft ,Sophie Tremblay,Returned, 10 % ,48,Online,
+NHF-10036,2024/11/28 - Lyon - France ,Extra Virgin Olive Oil 750ml,Pantry,Europe,43.22, EUR ,Harborline Foods,Priya Shah,completed,10%, 9 ,Distributor,
+NHF-10037, 07/22/2024|London|UK,Protein Bars 6pk,snacks,Europe,"30,26", gbp ,,Nina Patel,Pending,5%,8,Online,
+NHF-10038," Jul 02, 2024| Austin | USA",Cold Brew Coffee 1L,Beverage,north america,27.90,USD, Cornerstone Retail ,Nina Patel,Completed,0.2, 2 ,Online,VIP client
+NHF-10039,14 Jul 2024 | Manchester | UK,Dark Chocolate Bites 200g,Snacks,Europe,400.33,GBP, Healthy Living Depot ,Daniel Brooks,Cancelled,,33,Distributor,
+NHF-10040,10/14/2024|Berlin|Germany,Extra Virgin Olive Oil 750ml,Pantry,europe,268,eur,Fresh  &  Fine  ,Carlos Mendez,Cancelled,0%, 27 ,Distributor,
+NHF-10042,2024-06-22 | Munich | Germany,Organic Oats 1kg,Pantry, Europe ,225.42,EUR,Family Choice Superstore,Jonas Weber,Completed,0.05,12,Retail,Phone order
+NHF-10043, 06 Sep 2024 | Manchester | UK,Maple Granola 500g,breakfast,Europe,154.26, gbp ,FRESH  &  FINE  ,Daniel Brooks,Pending,,15,Wholesale,Manual adjustment
+NHF-10045,28 Mar 2024 | Dublin | Ireland,Coconut Chips 150g,Snacks,Europe,41,EUR,Euro Taste Hub,Megan O'Neil,Cancelled,0%,6,Wholesale,Rush delivery
+NHF-10046,2024/12/14 - Berlin - Germany ,Cold Brew Coffee 1L,Beverage,Europe,$97.94,eur,CORNERSTONE RETAIL,Carlos Mendez,processing,10%,10,Online,
+NHF-10047,"Dec 31, 2024| Montreal | Canada",Electrolyte Drink Mix,Fitness,North America,"891,74", cad ,Family Choice Superstore,Fatima Noor,completed,0,42,Online,Phone order
+NHF-10048,"Mar 07, 2024 |  Montreal  |  Canada",Almond Butter 340g,Pantry,North America,"380,55",CAD ,Green Basket Co.,Priya Shah,Cancelled, 20 % ,36,Retail,Phone order
+NHF-10049,07/11/2024|New York|USA,Sparkling Water 12pk,Beverage,North America, 173.35 ,USD,Cornerstone  Retail,Megan O'Neil,Completed ,N/A,12,Online,Late entry
+NHF-10051, 01/27/2024|Madrid|Spain,Coconut Chips 150g,Snacks, Europe ,123.58,EUR,HEALTHY LIVING DEPOT,Fatima Noor,processing,0%,36,Online,
+NHF-10052," Dec 27, 2024| Madrid | Spain",Dark Chocolate Bites 200g,Snacks,Europe,449.06,EUR,  LAKESIDE  MARKET  ,Jonas Weber,completed,N/A,40,Online,Manual adjustment
+NHF-10053,03-07-2024 | Montreal | Canada,Electrolyte Drink Mix,Fitness,north america,, cad ,  Maple Leaf Market ,Carlos Mendez,Cancelled,0%,35,Retail,Rush delivery
+NHF-10055,01/22/2024|Berlin|Germany,Almond Butter 340g,Pantry,Europe,"379,73",EUR,Prime Select Stores,Sophie Tremblay,processing,0%, 33 ,Online,
+NHF-10056,12/04/2024|Manchester|UK,Almond Butter 340g,Pantry,Europe, 369.10 , gbp , Peak Performance Gym ,Daniel Brooks, Shipped,0%,29,Retail,
+NHF-10057,08/15/2024|Montreal|Canada,Herbal Tea Sampler,Beverage,North America,233.22,CAD , FRESH & FINE  ,Jonas Weber,Completed ,0%,34,Retail,
+NHF-10058," Dec 30, 2024| Chicago | USA",Coconut Chips 150g,Snacks,North America,158.58,usd,THE  MARKET  LOFT,Daniel Brooks,Completed ,0%,33,Online,
+NHF-10059,2024/03/04 - New York - USA,Almond Butter 340g,Pantry,North America,"63,95",USD,Prime Select Stores,Carlos Mendez, Shipped, 0 % ,11,Retail,
+NHF-10060,15 May 2024 | Seattle | USA,Greek Yogurt Mix,Dairy,North America,505.58,usd, Lakeside Market ,Sophie Tremblay, Shipped, 20 % , 40 ,Online,Rush delivery
+NHF-10062,02/19/2024 | Vancouver | Canada ,Almond Butter 340g,Pantry,North America,463.79,CAD,North Shore Foods,A. Wong,processing,0%,25,Retail,
+NHF-10063," Jul 25, 2024| Munich | Germany",Maple Granola 500g,Breakfast,Europe,285.64,EUR,  City Grocer,Fatima Noor,Pending,N/A,26,Online,Phone order
+NHF-10064,2024/11/11 - Manchester - UK,Cold Brew Coffee 1L,Beverage,Europe,, gbp ,nature box ltd,Jonas Weber,Pending,0%, 33 ,Retail,Late entry
+NHF-10065,30 Jul 2024 | Seattle | USA,Greek Yogurt Mix,Dairy,North America,142.37,usd,Harborline Foods,Nina Patel,Cancelled,0.2,33,Distributor,VIP client
+NHF-10066,2024/06/11 - Madrid - Spain,Coconut Chips 150g,Snacks,Europe,144.04,EUR,  City Grocer,Sophie Tremblay,Completed ,5%, 36 ,Online,Late entry
+NHF-10067,02/21/2024|New York|USA,Organic Oats 1kg,pantry,North America,,usd,Euro Taste Hub,Megan O'Neil,Completed,N/A,36,Distributor,
+NHF-10068,"Jun 20, 2024| Manchester | UK ",Dark Chocolate Bites 200g,Snacks, Europe , 414.71 ,GBP, Cornerstone Retail ,Luca Rossi,Pending,15%,42,Online,
+NHF-10069,2024/06/17 - Manchester - UK,Organic Oats 1kg,Pantry,Europe,"240,54", gbp ,Fresh  &  Fine  ,Priya Shah,Completed ,5%,17,Retail,
+NHF-10070,2024/10/15 - Calgary - Canada,Maple Granola 500g,Breakfast,North America,"279,40",CAD ,nature  box  ltd,Priya Shah,Completed ,0%,36,Retail,Manual adjustment
+NHF-10071,"Feb 05, 2024| Madrid | Spain",Maple Granola 500g,breakfast, Europe ,282.55,EUR,Cornerstone Retail,Nina Patel,Cancelled,0.15,19,Wholesale,
+NHF-10072,2024-06-26 | New York | USA,Tomato Basil Sauce 680g,Pantry,North America,269.20,USD,  SUNRISE  WELLNESS  ,Jonas Weber,Completed, 10 % ,13,Distributor,Phone order
+NHF-10073,"Apr 23, 2024| Lyon | France",Almond Butter 340g,Pantry,Europe,93.78, EUR , Prime Select Stores ,Priya Shah, Shipped,,18,Wholesale,
+NHF-10075,2024-04-14  |  Berlin  |  Germany,Berry Jam 340g,Pantry,Europe,511.00,EUR,The  Daily  Cart,Megan O'Neil,Cancelled,20%,29,Wholesale,Late entry
+NHF-10076,08/26/2024|Munich|Germany,Almond Butter 340g,Pantry,Europe,155,EUR,Fit Fuel Studio,A. Wong,processing,0%,17,Wholesale,Rush delivery
+NHF-10077,2024/03/27 - New York - USA,Keto Trail Mix 300g,Snacks,North America,342.92,USD,  Maple Leaf Market ,A. Wong,Completed , 20 % ,32,Retail,
+NHF-10078, 09 Jan 2024 | Lyon | France,Sparkling Water 12pk,Beverage,Europe,48.59,EUR, Fit Fuel Studio ,Luca Rossi,completed,, 7 ,Wholesale,Phone order
+NHF-10079,27-09-2024  |  Vancouver  |  Canada,Whole Wheat Pasta 500g,Pantry,North America,232.21,CAD ,Nature  Box  Ltd,Megan O'Neil,processing,0.15,14,Online,
+NHF-10080, 02/20/2024|Lyon|France,Whole Wheat Pasta 500g,Pantry, Europe ,, EUR ,HARVEST HOUSE ,Priya Shah,processing,0%,5,Retail,
+NHF-10081,05/18/2024|Calgary|Canada,Herbal Tea Sampler,Beverage,North America,54.03,CAD ,Euro Taste Hub,Nina Patel,Pending,15%,6,Distributor,Rush delivery
+NHF-10082,11/16/2024|Madrid|Spain,Protein Bars 6pk,Snacks,Europe,$162.11,EUR,Healthy  Living  Depot,Fatima Noor,Pending, 5 % ,30,Distributor,Manual adjustment
+NHF-10083,2024/10/30 - Chicago - USA,Keto Trail Mix 300g,Snacks,North America,15.15,usd, Harborline Foods ,Daniel Brooks,completed, 0 % ,2,Distributor,
+NHF-10084,"May 07, 2024| Munich | Germany",Sparkling Water 12pk,Beverage,Europe,531.70,EUR,  MAPLE LEAF MARKET ,Nina Patel,Pending,N/A,42,Retail,
+NHF-10085,"Jun 08, 2024| Berlin | Germany",Dark Chocolate Bites 200g,Snacks,Europe,118,EUR,  Maple  Leaf  Market,Megan O'Neil, Shipped,N/A, 14 ,Online,Rush delivery
+NHF-10086, 2024/04/15 - London - UK ,Berry Jam 340g,Pantry,Europe, 241.23 , gbp ,   Everyday Essentials ,Sophie Tremblay,Returned,0%,37,Wholesale,
+NHF-10087,2024-11-21 | Chicago | USA,Keto Trail Mix 300g,snacks,North America, 64.69 ,USD,The Daily Cart,Sophie Tremblay,Completed ,0.05,11,Wholesale,
+NHF-10088,05 Oct 2024 | Munich | Germany,Keto Trail Mix 300g,Snacks,Europe,18.50,EUR,CORNERSTONE  RETAIL,Carlos Mendez,Pending,5%,3,Retail,Phone order
+NHF-10089,2024/06/14 - Manchester - UK,Almond Butter 340g,pantry,Europe,"336,62",GBP,Peak  Performance  Gym,Fatima Noor,processing,,37,Distributor,Phone order
+NHF-10090,"Jan 02, 2024 |  Montreal  |  Canada",Dark Chocolate Bites 200g,Snacks, North America ,293.33, cad ,Euro Taste Hub,Sophie Tremblay,Completed,N/A,41,Online,VIP client
+NHF-10092,2024-02-17 | Munich | Germany,Tomato Basil Sauce 680g,pantry, Europe ,54.24,EUR,FRESH  &  FINE  ,Megan O'Neil,Completed ,0%, 6 ,Distributor,VIP client
+NHF-10093,24-11-2024 | New York | USA,Berry Jam 340g,Pantry,North America,493,usd, THE DAILY CART ,Jonas Weber,Cancelled,0%,34,Retail,VIP client
+NHF-10094,19-07-2024  |  Manchester  |  UK,Maple Granola 500g,Breakfast,europe, 119.85 , gbp ,  City Grocer,Priya Shah,completed,0%,16,Wholesale,Manual adjustment
+NHF-10095,2024/03/19 - London - UK,Berry Jam 340g,Pantry,Europe,119.19,GBP,Lakeside  Market,Carlos Mendez,completed,0%,20,Distributor,
+NHF-10097,26-03-2024 | Munich | Germany,Herbal Tea Sampler,Beverage,Europe,651.43,EUR, Peak Performance Gym ,, Shipped,,48,Retail,Late entry
+NHF-10098,01-04-2024 | Vancouver | Canada ,Keto Trail Mix 300g,Snacks,North America,262.86, cad , Fresh & Fine  ,A. Wong,completed,0.2,46,Online,Rush delivery
+NHF-10099,2024-10-06  |  Austin  |  USA,Herbal Tea Sampler,Beverage,North America,9.66,usd,LAKESIDE  MARKET,Sophie Tremblay, Shipped,N/A,1,Online,Manual adjustment
+NHF-10100,2024-12-05 | New York | USA,Whole Wheat Pasta 500g,Pantry,North America, 144.72 ,USD,THE  DAILY  CART,Carlos Mendez,Completed ,,19,Distributor,
+NHF-10101, 16 Feb 2024 | Austin | USA,Coconut Chips 150g,Snacks,North America,327.62,USD,  Fresh  &  Fine    ,Megan O'Neil,processing,,26,Wholesale,
+NHF-10102,"Mar 03, 2024| Vancouver | Canada ",Dark Chocolate Bites 200g,Snacks,North America,22.86,CAD,NORTH  SHORE  FOODS,Jonas Weber,Pending,20%,4,Retail,Manual adjustment
+NHF-10103,05 Sep 2024  |  Munich  |  Germany,Electrolyte Drink Mix,Fitness,Europe,"745,73",eur,,Megan O'Neil,Returned,0.05,21,Distributor,Phone order
+NHF-10105,10/17/2024|New York|USA,Protein Bars 6pk,Snacks,North America,87.49,usd,   EVERYDAY ESSENTIALS ,, Shipped,0%,32,Distributor,VIP client
+NHF-10106,23-11-2024 | Madrid | Spain,Cold Brew Coffee 1L,Beverage,Europe,194.47,EUR,  Lakeside  Market  ,Jonas Weber,Completed,10%,12,Online,Phone order
+NHF-10107,2024-12-28 | Berlin | Germany,Dark Chocolate Bites 200g,snacks,europe,4.73,eur,North Shore Foods,Carlos Mendez,Pending,N/A,1,Retail,Phone order
+NHF-10108,"Dec 26, 2024 |  Toronto  |  Canada",Greek Yogurt Mix,Dairy,north america,261.33,CAD ,  THE  MARKET  LOFT  ,A. Wong,Completed ,5%,42,Retail,Rush delivery
+NHF-10109,"Aug 29, 2024| Madrid | Spain",Tomato Basil Sauce 680g,Pantry,Europe,"82,12",EUR, Sunrise Wellness ,Carlos Mendez,Cancelled,N/A,6,Wholesale,Late entry
+NHF-10110,14-09-2024 | New York | USA ,Extra Virgin Olive Oil 750ml,Pantry,North America,231,usd,The Daily Cart,Carlos Mendez,processing,N/A,29,Online,
+NHF-10111,26-05-2024 | Munich | Germany,Greek Yogurt Mix,Dairy, Europe ,112.16,eur,Urban  Pantry,Sophie Tremblay,Cancelled,5%,17,Wholesale,Phone order
+NHF-10112,06-04-2024 | Dublin | Ireland,Protein Bars 6pk,Snacks,europe,278,EUR,    City  Grocer,Megan O'Neil,Pending,,27,Wholesale,Rush delivery
+NHF-10113,10/09/2024|Munich|Germany ,Coconut Chips 150g,Snacks,Europe,"38,29",EUR, Sunrise Wellness ,A. Wong,Completed,0.1,11,Wholesale,Phone order
+NHF-10115,2024/12/12 - Paris - France,Extra Virgin Olive Oil 750ml,Pantry,Europe,11,EUR,HARVEST HOUSE ,Luca Rossi,Returned,0%,1,Retail,Rush delivery
+NHF-10116,26 Jul 2024 | Paris | France,Maple Granola 500g,Breakfast,Europe, 453.01 , EUR ,Bluebird Grocery,Luca Rossi, Shipped,,38,Distributor,Manual adjustment
+NHF-10117,10/26/2024|Manchester|UK,Dark Chocolate Bites 200g,Snacks, Europe ,98, gbp ,Bluebird  Grocery,Megan O'Neil,Completed ,,8,Online,
+NHF-10118, 2024/03/07 - Lyon - France ,Greek Yogurt Mix,Dairy,Europe,287.27,EUR,  Maple Leaf Market ,Fatima Noor,completed, 20 % ,26,Wholesale,
+NHF-10119,"Apr 06, 2024| Chicago | USA",Sea Salt Crackers 250g,Snacks,north america,19.21,USD,Family  Choice  Superstore,A. Wong,Completed,0%,2,Retail,
+NHF-10120, 2024-08-02  |  Calgary  |  Canada ,Electrolyte Drink Mix,Fitness,North America,"$2,158.56",CAD, Fit Fuel Studio ,Megan O'Neil,Completed ,, 47 ,Retail,VIP client
+NHF-10121,2024-05-15 | Dublin | Ireland ,Maple Granola 500g,Breakfast,Europe,84.72,EUR,  Maple Leaf Market ,Sophie Tremblay,Returned,N/A,7,Online,
+NHF-10122,23 Feb 2024 | Lyon | France,Vanilla Protein Powder 1kg,Fitness,Europe,"1,583.08",EUR,Harvest  House  ,Luca Rossi,Completed,0.2,37,Retail,Manual adjustment
+NHF-10123,12/05/2024 | Paris | France,Herbal Tea Sampler,Beverage,Europe,$121.34,EUR, Green Basket Co. ,Nina Patel,processing,0,36,Retail,
+NHF-10124,01 Jan 2024 | Montreal | Canada,Almond Butter 340g,Pantry,north america,468.40, cad ,The Market Loft,Sophie Tremblay,Pending,15%, 33 ,Wholesale,
+NHF-10126,"Jul 20, 2024| Seattle | USA",Dark Chocolate Bites 200g,Snacks,North America,171.40,usd, Cornerstone Retail ,Nina Patel,processing,0%,13,Distributor,
+NHF-10127,20 Dec 2024  |  Austin  |  USA,Tomato Basil Sauce 680g,Pantry,North America,$528.39,usd,The Market Loft,Megan O'Neil,Returned,0%,26,Distributor,
+NHF-10129,"Dec 11, 2024 |  Manchester  |  UK",Greek Yogurt Mix,Dairy,Europe,5.16, gbp ,HARBORLINE FOODS,Luca Rossi,Completed, 15 % ,1,Distributor,
+NHF-10130,2024-10-09  |  Vancouver  |  Canada,Organic Oats 1kg,Pantry,North America,413.82,CAD ,Fit Fuel Studio,Megan O'Neil, Shipped, 10 % , 48 ,Distributor,
+NHF-10131,01/21/2024|New York|USA,Cold Brew Coffee 1L,Beverage,north america,415,usd,  BLUEBIRD  GROCERY  ,Nina Patel,processing,N/A,39,Retail,
+NHF-10132,11/14/2024|Austin|USA,Maple Granola 500g,Breakfast,North America, 337.13 ,usd, Bluebird Grocery ,Megan O'Neil,completed,0%,44,Wholesale,
+NHF-10134,2024/11/27 - Montreal - Canada ,Herbal Tea Sampler,Beverage,North America,8.92,CAD,Peak Performance Gym,Daniel Brooks,Completed, 0 % ,2,Distributor,
+NHF-10135,2024-07-21 | Toronto | Canada,Vanilla Protein Powder 1kg,Fitness,North America,458.37,CAD ,Prime Select Stores,,processing,0%, 11 ,Online,Late entry
+NHF-10136,02 Apr 2024 | Vancouver | Canada,Keto Trail Mix 300g,Snacks,North America, 166.71 , cad ,      City  Grocer  ,Megan O'Neil,Completed ,N/A, 30 ,Online,Late entry
+NHF-10137,2024/07/03 - New York - USA,Cold Brew Coffee 1L,Beverage,North America,$246.85,USD,THE MARKET LOFT,Carlos Mendez,Completed, 15 % ,31,Online,Phone order
+NHF-10138," May 28, 2024| New York | USA",Dark Chocolate Bites 200g,Snacks,North America, 317.40 ,USD, BLUEBIRD GROCERY ,Jonas Weber, Shipped,0%,33,Distributor,Manual adjustment
+NHF-10140,21-01-2024 | Berlin | Germany,Extra Virgin Olive Oil 750ml,Pantry,Europe,833.39,eur, Fit Fuel Studio ,Megan O'Neil,Cancelled,5%, 46 ,Distributor,Late entry
+NHF-10141,03/01/2024|Austin|USA,Greek Yogurt Mix,Dairy,North America,"102,44",USD,    City  Grocer,Jonas Weber, Shipped,0%,22,Online,Rush delivery
+NHF-10143,2024/03/28 - Austin - USA,Greek Yogurt Mix,dairy,North America,"336,80",usd,    Everyday  Essentials,Megan O'Neil,processing, 0 % , 39 ,Online,
+NHF-10144,2024-09-24 | Lyon | France,Coconut Chips 150g,Snacks,Europe,24.18,EUR,HEALTHY  LIVING  DEPOT,Carlos Mendez,processing,0%,3,Distributor,Manual adjustment
+NHF-10145,"May 09, 2024| London | UK ",Keto Trail Mix 300g,Snacks,Europe,"183,20",GBP,Fit Fuel Studio,Daniel Brooks,completed, 20 % ,28,Retail,
+NHF-10147, 2024/03/15 - Madrid - Spain,Greek Yogurt Mix,Dairy,Europe, 44.75 ,EUR,    EVERYDAY  ESSENTIALS,Sophie Tremblay,Pending,0%,6,Retail,
+NHF-10148,2024/06/29 - Paris - France,Sea Salt Crackers 250g,Snacks, Europe ,465.98, EUR ,Fit  Fuel  Studio,Daniel Brooks,Returned, 20 % ,38,Wholesale,Manual adjustment
+NHF-10149,"Aug 22, 2024| Dublin | Ireland",Organic Oats 1kg,Pantry, Europe ,176.29,EUR, Bluebird Grocery ,Daniel Brooks,Cancelled,15%,31,Online,Late entry
+NHF-10150,2024/05/07 - Munich - Germany,Herbal Tea Sampler,Beverage,Europe,125.12,eur,Fit Fuel Studio,Luca Rossi,Returned,0.15,7,Online,Rush delivery
+NHF-10151,06/10/2024|Toronto|Canada,Organic Oats 1kg,Pantry,North America,300.62, cad ,  Everyday Essentials,Fatima Noor,processing,20%,44,Wholesale,Late entry
+NHF-10152,2024-08-30 | Toronto | Canada,Sparkling Water 12pk,Beverage,North America,357.99,CAD ,  NATURE  BOX  LTD  ,Megan O'Neil,Completed ,0.1, 27 ,Retail,Phone order
+NHF-10153,22-10-2024 | Chicago | USA,Almond Butter 340g,Pantry,north america, 208.93 ,USD,North Shore Foods,Daniel Brooks,completed,N/A,23,Wholesale,Manual adjustment
+NHF-10154," Apr 30, 2024| London | UK",Berry Jam 340g,pantry,Europe,92,GBP, FRESH & FINE  ,Daniel Brooks,Pending,0.15,14,Distributor,
+NHF-10155,31 Mar 2024 | Dublin | Ireland,Greek Yogurt Mix,dairy,Europe,191.53,EUR, PEAK PERFORMANCE GYM ,Priya Shah,Completed ,0.2,34,Retail,
+NHF-10157,"Aug 11, 2024| Paris | France",Whole Wheat Pasta 500g,pantry,europe,166.55, EUR ,  Lakeside  Market  ,Carlos Mendez,Returned, 0 % ,11,Retail,VIP client
+NHF-10159,29-04-2024 | Montreal | Canada,Herbal Tea Sampler,Beverage,North America, 7.93 , cad , Green Basket Co. ,Carlos Mendez, Shipped,N/A,1,Retail,Late entry
+NHF-10160,06-12-2024  |  Seattle  |  USA,Vanilla Protein Powder 1kg,Fitness,North America," 1,168.51 ",usd,Harvest House ,Megan O'Neil,Pending,,25,Wholesale,
+NHF-10162,2024-09-12 | Montreal | Canada,Cold Brew Coffee 1L,Beverage,North America, 200.89 ,CAD ,Prime  Select  Stores,Daniel Brooks, Shipped,20%,41,Wholesale,VIP client
+NHF-10163,"Mar 23, 2024| Montreal | Canada",Electrolyte Drink Mix,Fitness,North America, 354.82 ,CAD,   Everyday Essentials ,Nina Patel,Pending,,10,Retail,
+NHF-10165,05 Sep 2024 | Seattle | USA,Extra Virgin Olive Oil 750ml,Pantry,North America,"37,00",USD, Maple Leaf Market,Carlos Mendez,Completed,0.2, 3 ,Retail,VIP client
+NHF-10166,2024/02/19 - Calgary - Canada,Whole Wheat Pasta 500g,Pantry,North America,360.16,CAD ,Fresh & Fine ,Daniel Brooks, Shipped,0.1,35,Distributor,Phone order
+NHF-10168,2024-11-07 | Austin | USA,Keto Trail Mix 300g,Snacks,North America,$70.57,USD,Lakeside Market,Luca Rossi,Pending, 20 % ,14,Retail,Rush delivery
+NHF-10169,2024/10/25 - Austin - USA,Whole Wheat Pasta 500g,Pantry,North America,"307,37",USD,Harvest House ,Jonas Weber,Completed,N/A,17,Retail,Late entry
+NHF-10170,2024-11-20 | Paris | France,Maple Granola 500g,Breakfast, Europe ,178.86, EUR , Cornerstone Retail ,Daniel Brooks,Cancelled,15%,20,Wholesale,Manual adjustment
+NHF-10171,"Sep 25, 2024 |  Austin  |  USA",Whole Wheat Pasta 500g,Pantry,North America,39.71,USD,Euro  Taste  Hub,Fatima Noor,Completed ,,5,Online,
+NHF-10173, 24 Jun 2024 | Calgary | Canada,Almond Butter 340g,pantry,north america,335.60,CAD ,  City Grocer,, Shipped,0.1,29,Retail,VIP client
+NHF-10174, 2024/07/13 - Calgary - Canada,Cold Brew Coffee 1L,Beverage,North America,152.09,CAD,Bluebird  Grocery,Fatima Noor,Returned,,32,Online,
+NHF-10175,2024/02/14 - Paris - France,Electrolyte Drink Mix,Fitness,Europe,"2,366", EUR , Cornerstone Retail ,Megan O'Neil,Returned, 5 % ,44,Retail,
+NHF-10176,12-06-2024  |  Lyon  |  France,Greek Yogurt Mix,Dairy,Europe,110.92,EUR,  Maple Leaf Market ,Megan O'Neil,Pending,0%,20,Wholesale,Rush delivery
+NHF-10177,"Jan 17, 2024| Lyon | France",Organic Oats 1kg,Pantry,Europe,"384,37", EUR ,    Everyday  Essentials,Daniel Brooks,processing,, 18 ,Wholesale,
+NHF-10178,07/21/2024|Vancouver|Canada,Keto Trail Mix 300g,Snacks, North America ,146.09, cad , North Shore Foods ,Priya Shah,Completed ,N/A,25,Online,Rush delivery
+NHF-10180,"Mar 04, 2024| Montreal | Canada",Extra Virgin Olive Oil 750ml,Pantry, North America , 583.44 , cad ,The Market Loft,Priya Shah, Shipped,5%, 46 ,Distributor,
+NHF-10181,2024-01-03  |  Madrid  |  Spain,Whole Wheat Pasta 500g,Pantry,Europe,187,EUR, URBAN PANTRY ,Priya Shah,Returned,0%,14,Online,Rush delivery
+NHF-10183,17 Feb 2024 | Manchester | UK,Cold Brew Coffee 1L,Beverage,Europe,"273,79", gbp ,Euro Taste Hub,Carlos Mendez,completed,0.2,24,Distributor,
+NHF-10184,09-09-2024 | Chicago | USA,Whole Wheat Pasta 500g,Pantry,North America,360.89,usd, HEALTHY LIVING DEPOT ,,Pending,0%,46,Retail,
+NHF-10185, 30-08-2024  |  Vancouver  |  Canada,Herbal Tea Sampler,Beverage,North America,508.09,CAD, Bluebird Grocery ,Megan O'Neil,Cancelled, 5 % ,31,Wholesale,
+NHF-10186,"Dec 27, 2024| Berlin | Germany",Maple Granola 500g,Breakfast,Europe,"171,51",EUR,Fit Fuel Studio,A. Wong, Shipped, 5 % ,18,Retail,Rush delivery
+NHF-10187, 03 Jan 2024  |  Manchester  |  UK,Maple Granola 500g,breakfast,Europe,656,GBP,  nature  box  ltd  ,Luca Rossi,Cancelled, 0 % ,44,Distributor,
+NHF-10188,20-10-2024 | Austin | USA,Sparkling Water 12pk,Beverage,North America,43.53,usd,URBAN PANTRY,Jonas Weber,Completed ,N/A, 5 ,Wholesale,
+NHF-10189,08/28/2024|Austin|USA,Whole Wheat Pasta 500g,Pantry,North America,$188.82,usd, Cornerstone Retail ,Priya Shah,Cancelled,,10,Wholesale,Manual adjustment
+NHF-10190,2024-09-03 | Paris | France,Berry Jam 340g,pantry,Europe,173.88,EUR,Harborline Foods,Carlos Mendez,Completed , 15 % ,22,Retail,
+NHF-10191, 2024/11/21 - Toronto - Canada,Herbal Tea Sampler,Beverage,North America,$333.80,CAD ,Harborline Foods,Fatima Noor,Completed,,43,Distributor,
+NHF-10193,09 Aug 2024 | Paris | France ,Cold Brew Coffee 1L,Beverage, Europe ,454.10, EUR ,HEALTHY LIVING DEPOT,,Completed,N/A,46,Online,Rush delivery
+NHF-10194, 15-07-2024 | Munich | Germany,Whole Wheat Pasta 500g,Pantry, Europe ,146.13,eur,Urban  Pantry,Sophie Tremblay,completed,0%,12,Distributor,
+NHF-10195,2024/08/28 - Dublin - Ireland,Electrolyte Drink Mix,fitness,Europe,,EUR,NATURE BOX LTD,,Returned,0.05,31,Distributor,VIP client
+NHF-10196,29 Oct 2024 | New York | USA,Dark Chocolate Bites 200g,Snacks,North America,167,USD,  City Grocer,Daniel Brooks,Pending,,24,Wholesale,Rush delivery
+NHF-10197,29-04-2024 | Paris | France,Sea Salt Crackers 250g,Snacks,Europe,153.12,EUR,Fresh & Fine ,Luca Rossi,Returned, 5 % ,31,Online,Phone order
+NHF-10199,07 Jan 2024  |  Lyon  |  France,Extra Virgin Olive Oil 750ml,pantry,Europe,172.88,EUR,   Everyday Essentials ,Priya Shah, Shipped,0.15,34,Distributor,VIP client
+NHF-10200,2024/07/14 - Paris - France ,Cold Brew Coffee 1L,Beverage,europe,21, EUR ,FRESH  &  FINE  ,Carlos Mendez,Returned,,4,Distributor,
+NHF-10201,02-01-2024  |  Madrid  |  Spain,Vanilla Protein Powder 1kg,Fitness,Europe,867.52,EUR,Fresh & Fine ,,completed,,28,Distributor,Manual adjustment
+NHF-10203, 06 Sep 2024  |  Montreal  |  Canada,Dark Chocolate Bites 200g,Snacks,North America,,CAD ,Lakeside Market,,Completed,0%, 48 ,Online,
+NHF-10204,29 Aug 2024 | Vancouver | Canada,Whole Wheat Pasta 500g,Pantry,North America,655.81,CAD ,Green Basket Co.,Megan O'Neil,Pending,0%,45,Distributor,
+NHF-10205,"Mar 27, 2024| Munich | Germany",Keto Trail Mix 300g,Snacks,Europe,38.68,EUR, HARVEST HOUSE  ,Jonas Weber,processing,20%,11,Online,Rush delivery
+NHF-10206, 06/27/2024|Lyon|France,Organic Oats 1kg,Pantry,Europe,286.12,EUR,  Cornerstone  Retail  ,Priya Shah,Completed ,0.2,36,Wholesale,
+NHF-10207, 2024-03-31 | Chicago | USA,Organic Oats 1kg,Pantry, North America ,416.60,usd, Sunrise Wellness ,Megan O'Neil,Pending,15%,32,Distributor,VIP client
+NHF-10209,"Jan 31, 2024| London | UK",Herbal Tea Sampler,Beverage,Europe, 47.57 ,GBP, nature box ltd ,Sophie Tremblay,Pending, 5 % ,8,Online,
+NHF-10211, 2024/09/15 - Vancouver - Canada,Greek Yogurt Mix,Dairy,north america,"295,41",CAD ,,,Returned,N/A,34,Distributor,Rush delivery
+NHF-10212,07/16/2024|Berlin|Germany,Electrolyte Drink Mix,Fitness,Europe,75.24,eur,Urban  Pantry,Daniel Brooks,Completed,0.05,3,Wholesale,Late entry
+NHF-10213,06/29/2024|London|UK ,Electrolyte Drink Mix,Fitness,europe,"1, 876.30", gbp ,Cornerstone Retail,Carlos Mendez,Completed ,N/A,44,Retail,VIP client
+NHF-10214,2024/08/30 - Munich - Germany,Greek Yogurt Mix,Dairy,Europe,$301.63,eur,Healthy Living Depot,Nina Patel,Completed ,0, 29 ,Distributor,Rush delivery
+NHF-10215, 12/30/2024|Manchester|UK ,Sparkling Water 12pk,Beverage,europe,133.38,GBP, CORNERSTONE RETAIL ,A. Wong,Cancelled,N/A,12,Distributor,VIP client
+NHF-10216,2024-12-07 | New York | USA,Dark Chocolate Bites 200g,Snacks,North America,$77.70,USD,Cornerstone  Retail,Nina Patel,Returned,15%,22,Retail,Phone order
+NHF-10218, 2024/07/08 - Paris - France,Coconut Chips 150g,Snacks,europe,11.34, EUR ,Cornerstone Retail,Daniel Brooks,completed,N/A,1,Wholesale,
+NHF-10219,2024-10-10 | Madrid | Spain,Maple Granola 500g,Breakfast,Europe, 153.46 ,EUR,Fresh & Fine ,,Returned,0%,20,Retail,Phone order
+NHF-10220,24-03-2024 | Vancouver | Canada,Herbal Tea Sampler,Beverage,North America,188.92,CAD,  Lakeside  Market  ,Priya Shah, Shipped,,21,Online,
+NHF-10221,2024/07/29 - Berlin - Germany,Sparkling Water 12pk,Beverage,europe,112.05,EUR,Healthy Living Depot,Sophie Tremblay,Cancelled,, 7 ,Online,Late entry
+NHF-10222,08/05/2024 | Calgary | Canada ,Berry Jam 340g,Pantry,North America,27.34,CAD,  PEAK  PERFORMANCE  GYM  ,Carlos Mendez,Pending, 10 % ,2,Online,
+NHF-10223,01/08/2024|Seattle|USA,Protein Bars 6pk,Snacks,North America,$210.62,usd,Fit  Fuel  Studio,Fatima Noor,processing,N/A,19,Retail,
+NHF-10225, 21 Aug 2024 | Manchester | UK,Dark Chocolate Bites 200g,Snacks,europe,62.20, gbp ,NORTH SHORE FOODS,Daniel Brooks,completed,10%,15,Wholesale,
+NHF-10226,05/22/2024|London|UK,Sea Salt Crackers 250g,Snacks,Europe,147.65, gbp ,  Harvest  House    ,A. Wong,Completed ,,23,Wholesale,Late entry
+NHF-10227,05/13/2024|Berlin|Germany,Keto Trail Mix 300g,Snacks,Europe,$453.09,eur, CORNERSTONE RETAIL ,Luca Rossi, Shipped, 20 % ,35,Wholesale,
+NHF-10229, 14 May 2024 | Madrid | Spain,Sea Salt Crackers 250g,Snacks,Europe,107.52,EUR, Prime Select Stores ,,Pending,0%,40,Retail,Rush delivery
+NHF-10230,03 Aug 2024 | London | UK,Organic Oats 1kg,Pantry,Europe, 509.67 ,GBP,Euro  Taste  Hub,Luca Rossi,processing,,45,Wholesale,Late entry
+NHF-10232,18 Feb 2024 | Berlin | Germany,Tomato Basil Sauce 680g,Pantry,Europe,64.22,eur,Healthy Living Depot,Nina Patel, Shipped,0%,5,Wholesale,
+NHF-10234,2024/05/03 - New York - USA,Almond Butter 340g,Pantry,North America, 272.95 ,USD,  Peak  Performance  Gym  ,A. Wong,Returned,,28,Distributor,
+NHF-10235, 2024-01-11 | Vancouver | Canada,Berry Jam 340g,Pantry,North America,243,CAD ,  CITY GROCER,Carlos Mendez,Returned,N/A,21,Online,
+NHF-10236,13 Aug 2024 | Lyon | France,Tomato Basil Sauce 680g,Pantry,Europe,179.25, EUR ,    City  Grocer,,Completed,0%,38,Online,Rush delivery
+NHF-10237,2024-05-10 | Manchester | UK,Berry Jam 340g,Pantry,Europe,147,GBP,Peak Performance Gym,Daniel Brooks,Cancelled, 10 % ,16,Retail,
+NHF-10238,11/24/2024 | New York | USA,Organic Oats 1kg,Pantry,North America,"206,65",USD,   Everyday Essentials ,Priya Shah,Cancelled, 5 % , 26 ,Retail,
+NHF-10239,24-08-2024 | Seattle | USA,Tomato Basil Sauce 680g,Pantry,North America,,USD, Maple Leaf Market,Sophie Tremblay,Pending,0.05,45,Wholesale,
+NHF-10240,12-11-2024 | Dublin | Ireland,Whole Wheat Pasta 500g,Pantry,Europe,303.28,EUR,  Family  Choice  Superstore  ,,Pending,,24,Wholesale,VIP client
+NHF-10241,13-10-2024 | Vancouver | Canada,Sparkling Water 12pk,Beverage,North America,126.38, cad ,Fresh & Fine ,Luca Rossi,processing,0.15,17,Online,
+NHF-10242,28-01-2024  |  Seattle  |  USA,Herbal Tea Sampler,Beverage,North America,29.99,USD,Cornerstone Retail,Priya Shah,completed, 5 % ,4,Retail,
+NHF-10243, 2024-05-06 | Madrid | Spain,Extra Virgin Olive Oil 750ml,Pantry,Europe,114.52,EUR, MAPLE LEAF MARKET,Sophie Tremblay,Returned,0%, 22 ,Retail,VIP client
+NHF-10244,2024/10/07 - Paris - France,Berry Jam 340g,Pantry,Europe,$203.96, EUR , Lakeside Market ,Daniel Brooks,Returned,N/A,26,Wholesale,
+NHF-10245,2024/04/05 - Lyon - France,Greek Yogurt Mix,Dairy,Europe,$56.70,EUR,Lakeside Market,Priya Shah,Returned, 15 % ,6,Wholesale,VIP client
+NHF-10247,2024/01/09 - Calgary - Canada,Dark Chocolate Bites 200g,snacks,North America,85.30,CAD ,Cornerstone Retail,Priya Shah,completed,,12,Wholesale,Manual adjustment
+NHF-10249, 09/06/2024|Manchester|UK,Coconut Chips 150g,Snacks, Europe ,212.44,GBP,The Daily Cart,Daniel Brooks,Pending,N/A, 45 ,Wholesale,Late entry
+NHF-10251,"Jan 27, 2024| Berlin | Germany",Organic Oats 1kg,Pantry,Europe,98.22,eur,,Sophie Tremblay,Completed,,7,Distributor,Rush delivery
+NHF-10252, 08-04-2024 | Madrid | Spain,Coconut Chips 150g,Snacks,Europe,176.67,EUR,Lakeside Market,Fatima Noor, Shipped,N/A,29,Wholesale,VIP client
+NHF-10253,02 Jul 2024 | London | UK ,Coconut Chips 150g,snacks,Europe,113.92,GBP, THE MARKET LOFT ,Fatima Noor,Returned,N/A,44,Retail,
+NHF-10254,2024/04/15 - Munich - Germany,Sparkling Water 12pk,Beverage,Europe,433,EUR,Fresh & Fine ,Megan O'Neil,Completed ,5%,47,Wholesale,Late entry
+NHF-10255,22 Aug 2024 | Munich | Germany,Organic Oats 1kg,Pantry,Europe,,EUR,HEALTHY LIVING DEPOT,Priya Shah,Completed,0%,29,Distributor,Phone order
+NHF-10256,2024/11/08 - New York - USA,Sea Salt Crackers 250g,Snacks,North America,280.97,usd,The Daily Cart,Priya Shah,Returned, 20 % ,29,Distributor,Manual adjustment
+NHF-10258, 09 Jul 2024 | London | UK,Electrolyte Drink Mix,Fitness,Europe,378.40,GBP,nature box ltd,Jonas Weber,Returned, 20 % ,23,Distributor,Rush delivery
+NHF-10259,02/11/2024|Montreal|Canada,Maple Granola 500g,Breakfast,North America,, cad ,Peak Performance Gym,Sophie Tremblay,processing, 0 % ,28,Wholesale,Rush delivery
+NHF-10260, 08 Jul 2024 | Calgary | Canada,Greek Yogurt Mix,Dairy,North America,53.13, cad ,  Maple  Leaf  Market,Luca Rossi,Pending, 10 % ,8,Distributor,Manual adjustment
+NHF-10262,08 Mar 2024  |  New York  |  USA,Electrolyte Drink Mix,Fitness,North America,"1,820",usd,FAMILY CHOICE SUPERSTORE,Sophie Tremblay,completed,0%, 41 ,Retail,
+NHF-10264, 02-03-2024 | Chicago | USA,Organic Oats 1kg,Pantry,North America, 300.64 ,usd,NATURE  BOX  LTD,Daniel Brooks,Completed,10%,18,Online,VIP client
+NHF-10265,10-11-2024  |  Berlin  |  Germany,Sparkling Water 12pk,Beverage,Europe,10.29,EUR,URBAN PANTRY,Sophie Tremblay,processing,0%,2,Retail,Late entry
+NHF-10266,"Jun 04, 2024| Lyon | France",Dark Chocolate Bites 200g,Snacks, Europe ,"20,25", EUR ,The Market Loft,Luca Rossi, Shipped,20%,6,Distributor,
+NHF-10267,"Jun 02, 2024| Montreal | Canada",Sea Salt Crackers 250g,Snacks,North America,266.48, cad ,Harborline Foods,Luca Rossi,Cancelled, 15 % , 45 ,Retail,
+NHF-10268,"Jul 20, 2024 |  Montreal  |  Canada",Berry Jam 340g,Pantry,North America,184.59, cad ,FAMILY CHOICE SUPERSTORE,A. Wong,Cancelled,0%,35,Distributor,Late entry
+NHF-10269,01/19/2024|London|UK,Vanilla Protein Powder 1kg,Fitness,Europe,"2,084,57", gbp ,,Jonas Weber, Shipped,0%,46,Distributor,
+NHF-10270,2024/11/24 - Vancouver - Canada,Cold Brew Coffee 1L,Beverage,North America,114.31,CAD ,SUNRISE WELLNESS,,Pending,5%,28,Distributor,
+NHF-10271, 09 Aug 2024  |  Toronto  |  Canada,Cold Brew Coffee 1L,Beverage,North America, 242.37 ,CAD,  Everyday Essentials,Carlos Mendez,Completed,0%, 17 ,Retail,
+NHF-10272,02/19/2024|Lyon|France,Whole Wheat Pasta 500g,Pantry,Europe,548.14,EUR,  Cornerstone  Retail  ,Carlos Mendez,Pending,5%,39,Retail,
+NHF-10273,"Jun 08, 2024| New York | USA",Herbal Tea Sampler,Beverage,North America,211,USD,Healthy  Living  Depot,Carlos Mendez,Completed ,N/A,31,Wholesale,
+NHF-10274, 20-12-2024  |  Austin  |  USA,Dark Chocolate Bites 200g,Snacks,North America,422.14,USD,FIT FUEL STUDIO,Priya Shah,Pending,0%,40,Online,
+NHF-10275,02/21/2024|Toronto|Canada,Herbal Tea Sampler,Beverage,North America,181,CAD,Bluebird Grocery,Carlos Mendez, Shipped,,25,Distributor,
+NHF-10276,2024/03/05 - Madrid - Spain,Protein Bars 6pk,snacks,Europe, 140.15 ,EUR,Harvest House ,Sophie Tremblay,Completed ,15%,47,Wholesale,Late entry
+NHF-10277,21-03-2024 | Munich | Germany ,Tomato Basil Sauce 680g,Pantry,Europe,$201.52,eur,Healthy Living Depot,Luca Rossi, Shipped,0%,36,Online,
+NHF-10279,2024/04/12 - Berlin - Germany,Protein Bars 6pk,Snacks,Europe,485.67,eur,  Maple Leaf Market ,Daniel Brooks,Completed,15%,44,Wholesale,Rush delivery
+NHF-10281,2024-08-07 | Lyon | France,Protein Bars 6pk,Snacks,Europe,203, EUR ,EURO TASTE HUB,Nina Patel,Completed, 20 % ,29,Wholesale,Manual adjustment
+NHF-10282,2024-07-16 | Seattle | USA ,Vanilla Protein Powder 1kg,Fitness,North America,239.58,usd,  MAPLE LEAF MARKET ,Luca Rossi,Returned,N/A,7,Online,
+NHF-10284,2024/04/15 - New York - USA,Protein Bars 6pk,Snacks,North America, 172.94 ,usd,PEAK PERFORMANCE GYM,Daniel Brooks,Pending,N/A,20,Distributor,Manual adjustment
+NHF-10285,"Jul 31, 2024| Austin | USA",Sparkling Water 12pk,beverage,North America,685.91,USD,NORTH SHORE FOODS,Carlos Mendez,Pending,0.15,40,Distributor,Late entry
+NHF-10286,11/23/2024|Dublin|Ireland,Sea Salt Crackers 250g,Snacks,Europe,47.03,EUR,Harvest House ,Sophie Tremblay,Returned,0%,22,Retail,VIP client
+NHF-10287,12/31/2024 | Vancouver | Canada,Keto Trail Mix 300g,Snacks,North America, 94.72 ,CAD , Lakeside Market ,Megan O'Neil,Cancelled,0%,14,Retail,
+NHF-10288,25-02-2024 | Berlin | Germany ,Cold Brew Coffee 1L,Beverage,Europe, 479.43 ,eur,NORTH  SHORE  FOODS,Megan O'Neil,completed, 15 % ,36,Retail,
+NHF-10290,28 Mar 2024 | London | UK,Extra Virgin Olive Oil 750ml,Pantry,Europe, 320.23 , gbp ,Harborline Foods,Daniel Brooks,Pending,0%,39,Retail,
+NHF-10292,03/18/2024|Paris|France,Protein Bars 6pk,Snacks,Europe,479.99,EUR,Bluebird Grocery,Megan O'Neil,Cancelled,0%,42,Wholesale,
+NHF-10293,03-02-2024 | Madrid | Spain,Berry Jam 340g,Pantry,Europe,"72,45",EUR,Sunrise  Wellness,Megan O'Neil, Shipped,,13,Online,Rush delivery
+NHF-10294,03/20/2024 | Madrid | Spain,Organic Oats 1kg,Pantry,Europe,239.98,EUR,Cornerstone Retail,Fatima Noor,Completed ,N/A,25,Distributor,Manual adjustment
+NHF-10295,06-02-2024 | Lyon | France,Maple Granola 500g,Breakfast,Europe, 93.06 , EUR ,Prime Select Stores,Megan O'Neil,Completed,N/A,8,Online,
+NHF-10297,22-07-2024 | Montreal | Canada,Electrolyte Drink Mix,Fitness,North America,495.04,CAD ,Lakeside Market,Carlos Mendez,Cancelled,N/A, 13 ,Wholesale,
+NHF-10298, 03/28/2024 | Chicago | USA,Coconut Chips 150g,snacks,North America,132.99,USD,North Shore Foods,Sophie Tremblay,completed,15%,12,Retail,
+NHF-10299,2024-12-06 | Vancouver | Canada,Extra Virgin Olive Oil 750ml,pantry,North America,"168,77", cad ,  Everyday Essentials,Megan O'Neil,processing,N/A, 14 ,Retail,
+NHF-10300,07 Jul 2024 | Dublin | Ireland,Vanilla Protein Powder 1kg,Fitness,Europe,558.10,EUR,Euro Taste Hub,Carlos Mendez,Completed , 20 % ,33,Retail,
+NHF-10301,2024/08/27 - Chicago - USA,Dark Chocolate Bites 200g,Snacks,North America, 27.77 ,USD,North Shore Foods,Luca Rossi,completed, 20 % , 8 ,Distributor,Manual adjustment
+NHF-10303,"Nov 30, 2024| Lyon | France",Whole Wheat Pasta 500g,Pantry,Europe,$140.69, EUR ,    City  Grocer,A. Wong,Pending, 20 % ,15,Wholesale,
+NHF-10304, 31 May 2024 | Austin | USA,Vanilla Protein Powder 1kg,Fitness,North America,"1, 776.47",usd,Bluebird Grocery,Sophie Tremblay,Pending,0%,44,Retail,
+NHF-10305,03 Dec 2024 | Chicago | USA,Organic Oats 1kg,Pantry,North America,$394.46,usd, The Daily Cart ,Jonas Weber,Completed,5%,36,Online,
+NHF-10306,2024/12/13 - New York - USA,Sea Salt Crackers 250g,Snacks,North America,"146,40",usd,Nature  Box  Ltd,Carlos Mendez,Completed ,0%,28,Wholesale,VIP client
+NHF-10307,2024/03/02 - Calgary - Canada ,Berry Jam 340g,Pantry,north america,$86.43,CAD ,Fresh & Fine ,Daniel Brooks, Shipped, 15 % , 8 ,Retail,Late entry
+NHF-10308,2024-11-02 | Chicago | USA,Organic Oats 1kg,Pantry,North America,365.66,USD,Green Basket Co.,Daniel Brooks,Completed, 15 % ,36,Distributor,
+NHF-10309,01 May 2024 | Vancouver | Canada,Protein Bars 6pk,snacks,North America,75.80,CAD , HEALTHY LIVING DEPOT ,Priya Shah,completed,0%,10,Online,Manual adjustment
+NHF-10310,2024-07-13  |  Toronto  |  Canada,Whole Wheat Pasta 500g,Pantry,North America,$47.40, cad ,   City Grocer ,Megan O'Neil,completed, 10 % ,5,Distributor,
+NHF-10311,28-03-2024 | Berlin | Germany,Sea Salt Crackers 250g,Snacks, Europe , 93.68 ,EUR,PEAK  PERFORMANCE  GYM,Priya Shah,Returned,0.15,12,Distributor,Manual adjustment
+NHF-10312,2024/06/05 - Montreal - Canada,Almond Butter 340g,Pantry,North America,439.75,CAD,Lakeside Market,Daniel Brooks, Shipped,0%,27,Distributor,Late entry
+NHF-10313,"Dec 16, 2024| Vancouver | Canada",Dark Chocolate Bites 200g,Snacks,North America, 50.49 ,CAD,Healthy Living Depot,Megan O'Neil,completed,0.2,11,Retail,Rush delivery
+NHF-10315,"Jul 01, 2024| Toronto | Canada",Dark Chocolate Bites 200g,Snacks,North America,,CAD,Green Basket Co.,A. Wong,Returned,N/A,22,Distributor,Manual adjustment
+NHF-10316,26 Feb 2024 | Seattle | USA ,Almond Butter 340g,Pantry,North America,21.77,usd,Fresh & Fine ,Fatima Noor,processing,10%,3,Online,
+NHF-10317, 2024/01/05 - Lyon - France,Vanilla Protein Powder 1kg,Fitness,Europe, 406.31 ,EUR,Peak  Performance  Gym,Carlos Mendez, Shipped,5%,19,Online,
+NHF-10319,2024/06/05 - Austin - USA,Whole Wheat Pasta 500g,Pantry,North America, 269.67 ,usd,  Sunrise  Wellness  ,Fatima Noor,Completed ,,22,Online,Phone order
+NHF-10321,09/27/2024|Munich|Germany,Whole Wheat Pasta 500g,Pantry,Europe,301.97,EUR, The Daily Cart ,Fatima Noor,Completed , 10 % ,42,Wholesale,
+NHF-10323, 25-09-2024  |  Toronto  |  Canada,Sparkling Water 12pk,Beverage,North America,244.12, cad ,Harvest  House  ,Nina Patel,processing, 15 % ,39,Distributor,VIP client
+NHF-10324,09 Oct 2024 | Calgary | Canada,Sparkling Water 12pk,Beverage,North America, 51.76 ,CAD,  Prime  Select  Stores  ,Fatima Noor,Cancelled,,15,Online,VIP client
+NHF-10325,12/02/2024|Calgary|Canada,Sea Salt Crackers 250g,Snacks,north america, 165.70 ,CAD , FAMILY CHOICE SUPERSTORE ,Fatima Noor,Completed ,0,42,Online,Manual adjustment
+NHF-10327,06 Feb 2024 | Lyon | France ,Whole Wheat Pasta 500g,Pantry,Europe,$557.62, EUR ,FAMILY CHOICE SUPERSTORE,A. Wong,completed,0,30,Wholesale,Rush delivery
+NHF-10328,20 Mar 2024 | Austin | USA,Maple Granola 500g,Breakfast,North America,402.11,usd,      CITY  GROCER  ,Daniel Brooks,Returned,, 35 ,Distributor,Phone order
+NHF-10329, 02/13/2024|Vancouver|Canada,Herbal Tea Sampler,Beverage,North America,"69,49", cad ,Fit Fuel Studio,Luca Rossi,completed,N/A, 12 ,Wholesale,VIP client
+NHF-10330,03 Apr 2024 | Paris | France ,Coconut Chips 150g,Snacks,Europe, 207.16 ,EUR,Family Choice Superstore,Megan O'Neil,processing,,21,Online,
+NHF-10331, 2024/05/30 - Dublin - Ireland,Herbal Tea Sampler,beverage,Europe,263.12,EUR,Family  Choice  Superstore,Carlos Mendez,completed, 15 % , 36 ,Online,Rush delivery
+NHF-10332,"Aug 28, 2024| Lyon | France ",Cold Brew Coffee 1L,Beverage,Europe,217.22,EUR, Maple Leaf Market,Luca Rossi,Returned,0%,29,Retail,Late entry
+NHF-10333, 2024-11-05  |  Montreal  |  Canada,Dark Chocolate Bites 200g,Snacks,North America, 109.49 ,CAD,FRESH & FINE ,A. Wong, Shipped,,31,Retail,Rush delivery
+NHF-10335, 01/05/2024|Munich|Germany,Almond Butter 340g,Pantry,Europe, 290.64 ,EUR,Bluebird Grocery,Jonas Weber,Completed,5%,26,Online,
+NHF-10336,"Jun 23, 2024| Dublin | Ireland",Herbal Tea Sampler,Beverage,Europe,309.07,EUR,      City  Grocer  ,Luca Rossi,completed,,22,Wholesale,VIP client
+NHF-10338,11/28/2024|New York|USA,Extra Virgin Olive Oil 750ml,Pantry,North America,422.68,usd,FIT FUEL STUDIO,A. Wong,Completed, 15 % ,37,Online,Manual adjustment
+NHF-10339,"Aug 26, 2024 |  Dublin  |  Ireland",Keto Trail Mix 300g,Snacks,Europe,361.96,EUR, Euro Taste Hub ,Carlos Mendez,Completed,,30,Wholesale,Late entry
+NHF-10340,"May 18, 2024| London | UK",Sparkling Water 12pk,Beverage,Europe,23.28, gbp ,North Shore Foods,Luca Rossi,Cancelled,0%,6,Retail,
+NHF-10341,12/07/2024|New York|USA,Cold Brew Coffee 1L,beverage,North America,543.31,USD,Harvest House ,Nina Patel,Completed ,15%,43,Online,Manual adjustment
+NHF-10342,12/13/2024|Toronto|Canada,Coconut Chips 150g,Snacks,North America,271, cad ,Fit Fuel Studio,Carlos Mendez,Completed ,0%,24,Retail,
+NHF-10343,"Nov 11, 2024| Lyon | France",Extra Virgin Olive Oil 750ml,Pantry,Europe,526.01, EUR ,THE DAILY CART,Megan O'Neil,completed,0.05,32,Distributor,VIP client
+NHF-10344,10 Dec 2024  |  Austin  |  USA,Organic Oats 1kg,Pantry, North America ,121.69,USD,nature  box  ltd,Daniel Brooks,processing,20%, 27 ,Wholesale,VIP client
+NHF-10345,2024/04/14 - Montreal - Canada,Berry Jam 340g,Pantry,North America, 18.78 , cad , Maple Leaf Market,Fatima Noor,Pending,, 2 ,Online,
+NHF-10346,26 Feb 2024 | Dublin | Ireland,Extra Virgin Olive Oil 750ml,pantry,Europe,40.76,EUR,Harvest House ,Megan O'Neil,processing, 20 % ,7,Retail,Phone order
+NHF-10347,2024-11-03 | Toronto | Canada,Sparkling Water 12pk,Beverage,North America,$172.25, cad ,  Fresh  &  Fine    ,Priya Shah,Completed , 15 % ,34,Distributor,
+NHF-10349,20-07-2024 | Calgary | Canada,Almond Butter 340g,Pantry,North America,197.15,CAD ,Fresh & Fine ,Carlos Mendez,Completed,0.15, 11 ,Online,Phone order
+NHF-10350,07 Feb 2024 | Seattle | USA,Coconut Chips 150g,Snacks,North America, 234.21 ,usd,Sunrise Wellness,Carlos Mendez,completed,N/A, 24 ,Distributor,Manual adjustment
+NHF-10351,16-06-2024 | Paris | France ,Whole Wheat Pasta 500g,Pantry,Europe,$150.41, EUR , Urban Pantry ,Carlos Mendez,processing,,37,Wholesale,Rush delivery
+NHF-10353,2024-07-10 | Calgary | Canada,Organic Oats 1kg,Pantry, North America ,67.21,CAD, Fit Fuel Studio ,A. Wong,Completed,20%,15,Online,Phone order
+NHF-10354,2024-11-22  |  Dublin  |  Ireland,Extra Virgin Olive Oil 750ml,Pantry,Europe,$379.02,EUR,Lakeside  Market,Megan O'Neil,completed,0.05,34,Distributor,VIP client
+NHF-10355,2024-02-24 | New York | USA,Whole Wheat Pasta 500g,Pantry,North America,$236.40,usd,Nature Box Ltd,,Completed ,0.15,24,Wholesale,
+NHF-10357, 05/19/2024 | Munich | Germany,Extra Virgin Olive Oil 750ml,Pantry,Europe,56.79,eur,Bluebird Grocery,Megan O'Neil,Completed,N/A, 4 ,Distributor,Rush delivery
+NHF-10358,11/22/2024|Manchester|UK,Almond Butter 340g,Pantry,Europe,216.80,GBP, Euro Taste Hub ,A. Wong,processing,0.15,47,Wholesale,Late entry
+NHF-10359,2024/10/17 - Manchester - UK,Whole Wheat Pasta 500g,Pantry,Europe,402.43, gbp ,THE MARKET LOFT,A. Wong,Returned,0%,34,Retail,
+NHF-10360,"Jul 01, 2024| Madrid | Spain",Organic Oats 1kg,Pantry,Europe,$199.61,EUR,Peak Performance Gym,Nina Patel,Cancelled,0%,16,Retail,Manual adjustment
+NHF-10361,"May 27, 2024| Calgary | Canada ",Organic Oats 1kg,Pantry,north america,"519,99", cad , LAKESIDE MARKET ,Megan O'Neil,completed, 20 % ,32,Retail,VIP client
+NHF-10362,"Oct 26, 2024| Montreal | Canada ",Almond Butter 340g,Pantry,North America,81, cad ,Lakeside Market,Jonas Weber,Pending, 5 % ,15,Wholesale,
+NHF-10363, 09/14/2024|Munich|Germany,Dark Chocolate Bites 200g,Snacks, Europe ,54.84,EUR,  Everyday Essentials,Jonas Weber,Returned,, 23 ,Retail,Phone order
+NHF-10364, 2024/09/03 - Berlin - Germany ,Maple Granola 500g,Breakfast,Europe,102.65,eur,  CITY GROCER,Luca Rossi,Completed,,8,Wholesale,
+NHF-10366, 03-03-2024 | Manchester | UK,Sea Salt Crackers 250g,Snacks,Europe,,GBP,  HEALTHY  LIVING  DEPOT  ,Megan O'Neil,Pending,N/A,31,Wholesale,
+NHF-10367,07/18/2024|Toronto|Canada,Almond Butter 340g,Pantry,North America,41.59,CAD ,CORNERSTONE RETAIL,Nina Patel,processing,10%,3,Distributor,Manual adjustment
+NHF-10369,"Jul 11, 2024| Madrid | Spain",Sparkling Water 12pk,Beverage,Europe,"445,22",EUR,GREEN  BASKET  CO.,Carlos Mendez,Completed ,,37,Wholesale,Manual adjustment
+NHF-10370,2024/02/28 - Vancouver - Canada,Berry Jam 340g,Pantry,North America,439,CAD ,Nature Box Ltd,Megan O'Neil, Shipped,0%,29,Retail,Phone order
+NHF-10371,2024-06-23 | Chicago | USA,Electrolyte Drink Mix,Fitness,North America,"1,614.61",USD,  Cornerstone  Retail  ,Nina Patel,completed,0.15,32,Retail,
+NHF-10372, 03 May 2024 | Manchester | UK,Sea Salt Crackers 250g,Snacks,Europe,$244.37, gbp , HEALTHY LIVING DEPOT ,Priya Shah,Cancelled, 0 % ,40,Retail,Manual adjustment
+NHF-10374,2024-10-09 | Madrid | Spain,Herbal Tea Sampler,Beverage,Europe,$189.25,EUR,  Maple  Leaf  Market,Jonas Weber,Completed,, 18 ,Distributor,Phone order
+NHF-10375,05/01/2024|Austin|USA,Berry Jam 340g,pantry,North America, 185.77 ,USD,  URBAN  PANTRY  ,A. Wong,Pending, 5 % ,38,Distributor,Late entry
+NHF-10376,10/09/2024 | Manchester | UK,Whole Wheat Pasta 500g,Pantry, Europe ,691.61, gbp ,PEAK PERFORMANCE GYM,Nina Patel,Pending,,34,Distributor,VIP client
+NHF-10377, 2024/01/31 - London - UK,Sea Salt Crackers 250g,Snacks,Europe,"147,55", gbp , Urban Pantry ,Fatima Noor,Returned,0%,32,Wholesale,VIP client
+NHF-10378,05-08-2024 | London | UK,Sparkling Water 12pk,beverage, Europe ,145.89,GBP, The Market Loft ,Luca Rossi,Completed,,25,Online,Manual adjustment
+NHF-10379,11/08/2024 | Berlin | Germany,Berry Jam 340g,Pantry,Europe,179,EUR, SUNRISE WELLNESS ,Sophie Tremblay,Completed,0.2,29,Online,Phone order
+NHF-10380,09/18/2024|Montreal|Canada,Whole Wheat Pasta 500g,Pantry,North America,113.87, cad ,  Everyday Essentials,Sophie Tremblay,Returned,10%,14,Distributor,Late entry
+NHF-10381,14-07-2024 | Montreal | Canada,Berry Jam 340g,Pantry,North America,215.82,CAD,  Everyday Essentials,Jonas Weber,Pending,N/A, 15 ,Retail,Phone order
+NHF-10382,02-08-2024 | Austin | USA,Herbal Tea Sampler,Beverage,north america,"395,71",USD, Green Basket Co. ,Megan O'Neil,Completed ,N/A,35,Retail,
+NHF-10383,"Aug 04, 2024| Munich | Germany",Herbal Tea Sampler,Beverage,Europe,"188,71",EUR,URBAN PANTRY,Daniel Brooks,processing, 0 % ,26,Retail,Phone order
+NHF-10384,2024/08/12 - Chicago - USA,Electrolyte Drink Mix,Fitness,North America,"$1,846.47",usd,  Lakeside  Market  ,Megan O'Neil,Returned,5%,47,Distributor,
+NHF-10385,2024-02-19 | Seattle | USA ,Keto Trail Mix 300g,Snacks,North America,$345.37,USD,FIT FUEL STUDIO,Sophie Tremblay,Completed ,,33,Retail,Phone order
+NHF-10386, 08 Feb 2024  |  Berlin  |  Germany,Sparkling Water 12pk,Beverage,Europe,473,EUR,HEALTHY LIVING DEPOT,Megan O'Neil,Completed,0.15,33,Online,Rush delivery
+NHF-10387,21 Sep 2024 | Seattle | USA,Organic Oats 1kg,Pantry,North America,142.95,USD,Prime Select Stores,Megan O'Neil,Completed ,0.15,28,Distributor,Late entry
+NHF-10388,12-06-2024 | Calgary | Canada,Coconut Chips 150g,Snacks,North America,533.83,CAD, LAKESIDE MARKET ,Daniel Brooks,Cancelled,N/A,45,Retail,VIP client
+NHF-10389,"Oct 01, 2024| Seattle | USA",Extra Virgin Olive Oil 750ml,Pantry,North America, 588.95 ,usd,Fit Fuel Studio,Fatima Noor, Shipped,20%,40,Retail,
+NHF-10390,2024/02/22 - Paris - France,Vanilla Protein Powder 1kg,Fitness, Europe , 67.64 , EUR ,Prime Select Stores,Carlos Mendez,processing, 10 % ,3,Wholesale,
+NHF-10392,2024/04/13 - Calgary - Canada,Tomato Basil Sauce 680g,Pantry,North America,$506.58,CAD ,The Market Loft,Fatima Noor,completed,0%,42,Retail,
+NHF-10393,10/30/2024|Austin|USA,Berry Jam 340g,Pantry,North America,103,usd, Lakeside Market ,Jonas Weber,Completed,0.15,10,Retail,
+NHF-10394,2024/01/07 - Chicago - USA,Electrolyte Drink Mix,Fitness,North America,"1, 630.95",usd,  City Grocer,Daniel Brooks,Returned, 10 % ,48,Distributor,Rush delivery
+NHF-10395,2024-03-25 | Madrid | Spain,Organic Oats 1kg,Pantry,Europe,235,EUR,EURO TASTE HUB,Carlos Mendez,Pending,0.1,21,Wholesale,VIP client
+NHF-10396,2024-02-09 | New York | USA ,Extra Virgin Olive Oil 750ml,Pantry,north america,341.66,usd,   Everyday Essentials ,Megan O'Neil, Shipped,0%,47,Retail,Late entry
+NHF-10397,12/27/2024 | Madrid | Spain,Coconut Chips 150g,Snacks,Europe,180.70,EUR,  City Grocer,Carlos Mendez,processing,20%,20,Online,Manual adjustment
+NHF-10398,2024-04-10 | Dublin | Ireland,Coconut Chips 150g,Snacks,Europe,,EUR,Urban Pantry,Luca Rossi,Completed,N/A,34,Retail,Phone order
+NHF-10399,2024/12/27 - Chicago - USA ,Herbal Tea Sampler,Beverage,North America,24.03,USD,Prime Select Stores,Fatima Noor, Shipped,0%, 6 ,Online,VIP client
+NHF-10400,2024-11-07  |  Seattle  |  USA ,Electrolyte Drink Mix,Fitness,North America, 720.37 ,USD,Nature  Box  Ltd,Carlos Mendez,Completed,0%,27,Online,VIP client
+NHF-10401,22 May 2024 | New York | USA,Cold Brew Coffee 1L,Beverage, North America ,364.55,usd,Fit Fuel Studio,,processing, 20 % ,27,Distributor,
+NHF-10402,2024-08-27  |  London  |  UK,Maple Granola 500g,Breakfast,Europe,96.58,GBP,Euro  Taste  Hub,Daniel Brooks,Cancelled,N/A,8,Wholesale,Manual adjustment
+NHF-10403, 2024/11/03 - Berlin - Germany,Vanilla Protein Powder 1kg,Fitness,Europe,"1,769.26",eur,,Luca Rossi,Pending,0.05,44,Wholesale,Manual adjustment
+NHF-10404,12 Apr 2024 | Chicago | USA,Almond Butter 340g,Pantry,North America,122.59,usd, Maple Leaf Market,Megan O'Neil,processing,N/A,20,Wholesale,Manual adjustment
+NHF-10405,14-01-2024 | Austin | USA,Sparkling Water 12pk,Beverage,North America,232.02,USD, HARVEST HOUSE  ,Fatima Noor, Shipped,5%,16,Retail,Rush delivery
+NHF-10407, 2024/12/01 - Paris - France,Organic Oats 1kg,Pantry,Europe,96.91,EUR, Lakeside Market ,Sophie Tremblay,Completed ,0%,11,Distributor,VIP client
+NHF-10408,2024-08-10 | Vancouver | Canada ,Dark Chocolate Bites 200g,Snacks,North America, 49.84 ,CAD , Lakeside Market ,,Cancelled,, 19 ,Online,Rush delivery
+NHF-10409,18-12-2024 | Austin | USA ,Electrolyte Drink Mix,Fitness,North America,"1,542.77",usd,Bluebird Grocery,Daniel Brooks, Shipped,20%,37,Distributor,
+NHF-10410,10 Jul 2024 | Madrid | Spain ,Protein Bars 6pk,Snacks,Europe,189.26,EUR, PEAK PERFORMANCE GYM ,Priya Shah,Completed ,0.2,28,Wholesale,Phone order
+NHF-10411,2024/01/07 - Berlin - Germany,Cold Brew Coffee 1L,Beverage, Europe ,203.73,eur,FAMILY CHOICE SUPERSTORE,Sophie Tremblay,Cancelled, 20 % ,21,Distributor,Manual adjustment
+NHF-10413,2024/10/11 - Madrid - Spain,Whole Wheat Pasta 500g,Pantry,Europe,526.85,EUR,North Shore Foods,Nina Patel,Pending,0%,25,Wholesale,Late entry
+NHF-10414, 26 May 2024 | Dublin | Ireland,Sparkling Water 12pk,Beverage,Europe,145,EUR,Healthy  Living  Depot,Jonas Weber,completed,0%,12,Retail,Manual adjustment
+NHF-10415,22-08-2024 | Munich | Germany,Whole Wheat Pasta 500g,Pantry,Europe,140.33,eur,  Sunrise  Wellness  ,Sophie Tremblay,completed,0%,12,Wholesale,
+NHF-10416, 2024/08/01 - London - UK,Keto Trail Mix 300g,Snacks,europe, 67.39 , gbp ,Urban Pantry,Daniel Brooks,completed,15%,8,Retail,Phone order
+NHF-10417,05-05-2024 | London | UK,Cold Brew Coffee 1L,Beverage,Europe,151.54, gbp ,,Luca Rossi, Shipped,20%,19,Wholesale,VIP client
+NHF-10418,2024/10/25 - Manchester - UK,Herbal Tea Sampler,Beverage,Europe,420.29, gbp ,PRIME SELECT STORES,Fatima Noor,Completed ,10%,38,Online,VIP client
+NHF-10419,2024-11-28 | Seattle | USA,Coconut Chips 150g,Snacks,North America, 360.56 ,USD,The Daily Cart,Nina Patel,completed,0%,32,Wholesale,
+NHF-10420,"May 22, 2024 |  Montreal  |  Canada",Protein Bars 6pk,Snacks,North America,$375.26,CAD ,Harvest House ,Carlos Mendez,completed, 15 % ,47,Retail,Rush delivery
+NHF-10422,21-08-2024 | Toronto | Canada,Tomato Basil Sauce 680g,Pantry,North America,336.95,CAD ,Sunrise Wellness,Carlos Mendez, Shipped,0%, 27 ,Wholesale,Phone order
+NHF-10424,2024/04/09 - Calgary - Canada,Whole Wheat Pasta 500g,Pantry,North America, 113.14 ,CAD ,    City  Grocer,Priya Shah, Shipped,0.15,14,Distributor,Phone order
+NHF-10425,"Jun 10, 2024| Dublin | Ireland",Almond Butter 340g,Pantry,europe,$374.75,EUR,Cornerstone  Retail,Luca Rossi,Cancelled,0, 28 ,Online,Phone order
+NHF-10426,08/28/2024|Vancouver|Canada,Sea Salt Crackers 250g,Snacks,North America, 491.20 , cad , Peak Performance Gym ,Carlos Mendez,processing, 10 % ,45,Distributor,
+NHF-10428,2024/07/03 - Dublin - Ireland,Protein Bars 6pk,Snacks,Europe,"53,21",EUR,  CITY GROCER,Sophie Tremblay,Completed,0.2,12,Distributor,
+NHF-10429,27 Feb 2024 | Chicago | USA,Electrolyte Drink Mix,Fitness,North America, 255.05 ,usd, Cornerstone Retail ,Priya Shah,Cancelled, 15 % , 6 ,Online,Phone order
+NHF-10431, 2024/10/26 - Berlin - Germany,Keto Trail Mix 300g,Snacks,Europe,372,EUR,      CITY  GROCER  ,Jonas Weber,Completed,10%,30,Distributor,Late entry
+NHF-10432,"Jan 14, 2024| New York | USA",Dark Chocolate Bites 200g,Snacks,north america, 79.77 ,usd,THE DAILY CART,Carlos Mendez,completed,,8,Distributor,
+NHF-10433, 07/13/2024|Lyon|France,Sea Salt Crackers 250g,Snacks, Europe ,55.48,EUR,Prime Select Stores,Luca Rossi,Cancelled,,7,Distributor,Phone order
+NHF-10434,"Mar 29, 2024 |  Chicago  |  USA",Electrolyte Drink Mix,Fitness, North America ,222.44,usd, Family Choice Superstore ,A. Wong,Completed ,,10,Retail,Manual adjustment
+NHF-10435, 08/25/2024|Lyon|France ,Keto Trail Mix 300g,Snacks,Europe,140.14, EUR ,  Everyday Essentials,Jonas Weber,Pending,,29,Online,VIP client
+NHF-10436,23-09-2024  |  London  |  UK,Herbal Tea Sampler,Beverage,europe,216.27,GBP,The Daily Cart,Megan O'Neil,Cancelled,N/A,21,Wholesale,
+NHF-10438,2024-06-21 | Berlin | Germany,Sparkling Water 12pk,Beverage,Europe,243.34,eur, Green Basket Co. ,Carlos Mendez,Completed ,,17,Online,
+NHF-10440,2024/04/11 - Munich - Germany ,Electrolyte Drink Mix,Fitness,Europe,1410.35,EUR,FIT FUEL STUDIO,Jonas Weber, Shipped,N/A,39,Wholesale,Rush delivery
+NHF-10441,"Jan 01, 2024| Montreal | Canada",Tomato Basil Sauce 680g,Pantry,North America,565.55,CAD,Harvest House ,Megan O'Neil, Shipped,15%, 46 ,Online,Late entry
+NHF-10442,06-01-2024  |  Calgary  |  Canada,Electrolyte Drink Mix,Fitness,North America,868.17,CAD ,CORNERSTONE RETAIL,Fatima Noor,Completed,N/A,20,Retail,
+NHF-10443,"Jul 04, 2024| Austin | USA",Vanilla Protein Powder 1kg,Fitness,North America,"1,659,15",usd,Prime Select Stores,,Completed ,N/A,45,Wholesale,
+NHF-10445,04 Nov 2024 | Calgary | Canada,Extra Virgin Olive Oil 750ml,Pantry,North America, 233.71 ,CAD ,Urban Pantry,,processing,0%, 37 ,Wholesale,
+NHF-10446,02-07-2024  |  Munich  |  Germany,Coconut Chips 150g,Snacks,Europe,$137.56,eur, Family Choice Superstore ,Carlos Mendez,Pending,15%,16,Wholesale,Phone order
+NHF-10447, 2024/03/22 - Chicago - USA,Cold Brew Coffee 1L,Beverage,North America,30.27,usd,   Everyday Essentials ,Daniel Brooks, Shipped,0.2,2,Retail,Phone order
+NHF-10448,2024/05/05 - New York - USA,Tomato Basil Sauce 680g,Pantry,North America,21.31,USD, LAKESIDE MARKET ,Sophie Tremblay,Pending,0%,2,Distributor,Manual adjustment
+NHF-10449,2024/06/12 - Munich - Germany,Berry Jam 340g,Pantry,Europe,329.15,eur,The Market Loft,Nina Patel,Pending,0%,45,Retail,Phone order
+NHF-10450,15 Dec 2024 | Munich | Germany,Berry Jam 340g,pantry, Europe ,431.60,EUR,FAMILY CHOICE SUPERSTORE,Luca Rossi,processing, 0 % ,47,Retail,
+NHF-10451,"May 07, 2024 |  Chicago  |  USA",Sparkling Water 12pk,Beverage,North America,10,usd,Healthy  Living  Depot,Luca Rossi,processing,,2,Retail,
+NHF-10452,10/12/2024|Vancouver|Canada,Coconut Chips 150g,Snacks, North America ,"17,43",CAD , Fit Fuel Studio ,Priya Shah,Cancelled,20%, 7 ,Wholesale,
+NHF-10453,08-06-2024  |  Manchester  |  UK,Extra Virgin Olive Oil 750ml,Pantry,Europe,347.69, gbp ,Cornerstone Retail,Carlos Mendez,completed,,23,Retail,
+NHF-10454,15-10-2024 | Paris | France,Keto Trail Mix 300g,snacks,Europe,175.92,EUR, HARVEST HOUSE  ,Jonas Weber,Completed ,0.2,42,Online,Phone order
+NHF-10456,"Jun 04, 2024 |  Paris  |  France ",Protein Bars 6pk,Snacks,Europe, 237.67 , EUR , Harborline Foods ,Megan O'Neil,completed,0%,23,Retail,Late entry
+NHF-10457,03/31/2024|Paris|France,Whole Wheat Pasta 500g,Pantry,Europe,494.37, EUR ,The Daily Cart,A. Wong,processing,0%, 24 ,Online,
+NHF-10458,2024/02/04 - Chicago - USA ,Keto Trail Mix 300g,Snacks,North America,"192,20",usd,Fresh  &  Fine  ,Carlos Mendez,Completed ,0%,21,Retail,Late entry
+NHF-10459,08/14/2024|Vancouver|Canada ,Electrolyte Drink Mix,Fitness,North America,"525,53",CAD, Fit Fuel Studio ,Luca Rossi,Pending, 20 % ,13,Online,
+NHF-10460,2024-12-16  |  Montreal  |  Canada,Greek Yogurt Mix,Dairy,North America,209.88,CAD, Maple Leaf Market,Carlos Mendez,Completed,0%,34,Online,Rush delivery
+NHF-10461,09/02/2024|New York|USA,Dark Chocolate Bites 200g,Snacks,North America,322.59,USD,  Fit  Fuel  Studio  ,Daniel Brooks,Pending,0%,35,Wholesale,Rush delivery
+NHF-10462,2024/03/09 - Seattle - USA,Whole Wheat Pasta 500g,Pantry,north america,207.83,usd,  Fit  Fuel  Studio  ,Sophie Tremblay,processing,,14,Online,VIP client
+NHF-10463,24-11-2024  |  Paris  |  France,Protein Bars 6pk,Snacks,Europe,40.54,EUR,  HARBORLINE  FOODS  ,A. Wong,completed,0.2,10,Wholesale,Rush delivery
+NHF-10464,02/21/2024|Chicago|USA,Herbal Tea Sampler,Beverage,North America,142.60,USD,Fresh & Fine ,Priya Shah,Completed , 5 % ,11,Retail,Rush delivery
+NHF-10465,13-02-2024 | Munich | Germany,Berry Jam 340g,Pantry,Europe,80.15,eur, Lakeside Market ,,processing,N/A,12,Retail,Late entry
+NHF-10466,21-06-2024 | Vancouver | Canada,Tomato Basil Sauce 680g,Pantry,North America,"1, 053.75",CAD,NATURE BOX LTD,Daniel Brooks,Returned,10%,48,Online,Rush delivery
+NHF-10467,"Dec 09, 2024| Montreal | Canada",Cold Brew Coffee 1L,Beverage, North America ,138.31,CAD ,  Sunrise  Wellness  ,Fatima Noor,completed,5%,33,Retail,
+NHF-10468,08/09/2024|Austin|USA,Protein Bars 6pk,Snacks,north america,16.86,USD,Harvest  House  ,Priya Shah,completed,5%,4,Online,
+NHF-10469,03 Nov 2024 | Lyon | France,Electrolyte Drink Mix,Fitness, Europe ,"1, 777.26", EUR , Lakeside Market ,A. Wong,processing,0.2,41,Retail,VIP client
+NHF-10470," Sep 02, 2024| Munich | Germany",Vanilla Protein Powder 1kg,Fitness,Europe,352.87,eur,Cornerstone Retail,Sophie Tremblay, Shipped,0%,20,Retail,Manual adjustment
+NHF-10471,18 Mar 2024  |  Chicago  |  USA ,Protein Bars 6pk,Snacks,North America,33.14,usd,,Daniel Brooks, Shipped,0.05,7,Wholesale,Late entry
+NHF-10472,19-11-2024 | Chicago | USA,Cold Brew Coffee 1L,Beverage,North America,436.92,USD, Fit Fuel Studio ,Megan O'Neil,Cancelled,0.05,41,Distributor,Late entry
+NHF-10473,09/07/2024|Madrid|Spain,Organic Oats 1kg,Pantry,Europe,260.20,EUR,Green Basket Co.,Priya Shah,Completed,0.1,21,Distributor,
+NHF-10474,11/01/2024|Calgary|Canada,Almond Butter 340g,Pantry,North America, 260.94 ,CAD,  LAKESIDE  MARKET  ,Daniel Brooks,Completed ,0.15,47,Wholesale,VIP client
+NHF-10475, 04 Mar 2024  |  Vancouver  |  Canada ,Cold Brew Coffee 1L,Beverage,North America,$473.58,CAD,Euro Taste Hub,,Completed,0%, 36 ,Distributor,Phone order
+NHF-10476,2024-09-09  |  Paris  |  France,Keto Trail Mix 300g,Snacks,Europe,$15.01,EUR, PEAK PERFORMANCE GYM ,,Pending,0.15,4,Wholesale,
+NHF-10477,12/08/2024|Lyon|France,Keto Trail Mix 300g,Snacks,Europe,43.19, EUR , Bluebird Grocery ,Jonas Weber,Cancelled,N/A,5,Wholesale,
+NHF-10478,2024-07-26 | Seattle | USA,Sparkling Water 12pk,Beverage,North America,$110.71,USD, nature box ltd ,Jonas Weber,Returned,0%,8,Wholesale,Manual adjustment
+NHF-10480,02-09-2024  |  Manchester  |  UK ,Whole Wheat Pasta 500g,Pantry,Europe,77.39, gbp ,  Cornerstone  Retail  ,Megan O'Neil,processing,0.05,5,Online,
+NHF-10481," Aug 31, 2024 |  Chicago  |  USA",Organic Oats 1kg,Pantry,North America,,usd, Green Basket Co. ,,processing,0.1,8,Online,VIP client
+NHF-10482,2024/04/30 - Dublin - Ireland,Organic Oats 1kg,Pantry,Europe,223.12,EUR,Lakeside Market,Priya Shah,Cancelled,N/A,42,Online,Rush delivery
+NHF-10483,"Feb 14, 2024 |  London  |  UK ",Herbal Tea Sampler,Beverage,Europe,188.74,GBP,  Everyday Essentials,Jonas Weber,Pending,, 22 ,Online,Late entry
+NHF-10484,2024-02-29 | Berlin | Germany,Coconut Chips 150g,Snacks,Europe,,EUR,Sunrise Wellness,Megan O'Neil,completed,0%,36,Online,
+NHF-10485," Apr 05, 2024| Montreal | Canada",Berry Jam 340g,Pantry,North America,179.25, cad ,The Daily Cart,,Completed , 0 % ,17,Distributor,Rush delivery
+NHF-10486,2024/02/14 - Madrid - Spain,Tomato Basil Sauce 680g,Pantry,Europe,$188.45,EUR,Urban Pantry,Jonas Weber,Completed,N/A,35,Wholesale,
+NHF-10487,03/01/2024|Madrid|Spain,Sparkling Water 12pk,Beverage,Europe,224.32,EUR,Harvest House ,Priya Shah,Completed,0%, 29 ,Online,
+NHF-10489,01/13/2024 | Dublin | Ireland,Vanilla Protein Powder 1kg,Fitness,Europe,797.72,EUR,  Peak  Performance  Gym  ,Fatima Noor,Pending, 10 % ,24,Wholesale,
+NHF-10491,07/30/2024 | Calgary | Canada,Keto Trail Mix 300g,Snacks,North America,31.80,CAD, Bluebird Grocery ,Priya Shah,Pending,0%,3,Retail,
+NHF-10493,2024/02/04 - Madrid - Spain,Electrolyte Drink Mix,Fitness,Europe,111.76,EUR, HEALTHY LIVING DEPOT ,Megan O'Neil,Cancelled, 15 % ,5,Online,Late entry
+NHF-10494,09 Aug 2024 | Toronto | Canada,Greek Yogurt Mix,Dairy,North America,"21,36",CAD , Euro Taste Hub ,Sophie Tremblay,processing,15%,5,Wholesale,Phone order
+NHF-10495,08 May 2024 | London | UK,Tomato Basil Sauce 680g,Pantry,Europe, 290.38 ,GBP, Euro Taste Hub ,Megan O'Neil, Shipped,N/A,19,Retail,VIP client
+NHF-10496,2024/04/03 - Madrid - Spain,Coconut Chips 150g,Snacks,Europe,97.57,EUR,  Family  Choice  Superstore  ,Luca Rossi,Completed ,N/A,16,Wholesale,Manual adjustment
+NHF-10497,03/03/2024|Munich|Germany,Maple Granola 500g,Breakfast,Europe,25.64,EUR, Urban Pantry ,Jonas Weber,Returned,5%, 3 ,Distributor,Late entry
+NHF-10498,2024/04/14 - Toronto - Canada,Sparkling Water 12pk,Beverage,North America,,CAD,Cornerstone Retail,A. Wong,Returned,N/A,6,Wholesale,Manual adjustment
+NHF-10499,10 Dec 2024 | Madrid | Spain,Greek Yogurt Mix,Dairy,Europe,229.32,EUR,,Megan O'Neil,processing, 5 % ,34,Retail,Rush delivery
+NHF-10500,"Jun 25, 2024| Munich | Germany ",Sea Salt Crackers 250g,Snacks,Europe,5.95,eur, HARVEST HOUSE  ,Nina Patel,Pending,0%, 2 ,Retail,
+NHF-10178,07/21/2024|Vancouver|Canada,Keto Trail Mix 300g,Snacks, North America ,146.09, cad , North Shore Foods ,Priya Shah,Completed ,N/A,25,Online,Rush delivery
+NHF-10084,"May 07, 2024| Munich | Germany",Sparkling Water 12pk,Beverage,Europe,531.70,EUR,  MAPLE LEAF MARKET ,Nina Patel,Pending,N/A,42,Retail,
+NHF-10269,01/19/2024|London|UK,Vanilla Protein Powder 1kg,Fitness,Europe,"2,084,57", gbp ,,Jonas Weber, Shipped,0%,46,Distributor,
+NHF-10169,2024/10/25 - Austin - USA,Whole Wheat Pasta 500g,Pantry,North America,"307,37",USD,Harvest House ,Jonas Weber,Completed,N/A,17,Retail,Late entry
+NHF-10110,14-09-2024 | New York | USA ,Extra Virgin Olive Oil 750ml,Pantry,North America,231,usd,The Daily Cart,Carlos Mendez,processing,N/A,29,Online,
+NHF-10136,02 Apr 2024 | Vancouver | Canada,Keto Trail Mix 300g,Snacks,North America, 166.71 , cad ,      City  Grocer  ,Megan O'Neil,Completed ,N/A, 30 ,Online,Late entry
+NHF-10252, 08-04-2024 | Madrid | Spain,Coconut Chips 150g,Snacks,Europe,176.67,EUR,Lakeside Market,Fatima Noor, Shipped,N/A,29,Wholesale,VIP client
+NHF-10189,08/28/2024|Austin|USA,Whole Wheat Pasta 500g,Pantry,North America,$188.82,usd, Cornerstone Retail ,Priya Shah,Cancelled,,10,Wholesale,Manual adjustment
+NHF-10099,2024-10-06  |  Austin  |  USA,Herbal Tea Sampler,Beverage,North America,9.66,usd,LAKESIDE  MARKET,Sophie Tremblay, Shipped,N/A,1,Online,Manual adjustment
+NHF-10323, 25-09-2024  |  Toronto  |  Canada,Sparkling Water 12pk,Beverage,North America,244.12, cad ,Harvest  House  ,Nina Patel,processing, 15 % ,39,Distributor,VIP client
+NHF-10040,10/14/2024|Berlin|Germany,Extra Virgin Olive Oil 750ml,Pantry,europe,268,eur,Fresh  &  Fine  ,Carlos Mendez,Cancelled,0%, 27 ,Distributor,
+NHF-10137,2024/07/03 - New York - USA,Cold Brew Coffee 1L,Beverage,North America,$246.85,USD,THE MARKET LOFT,Carlos Mendez,Completed, 15 % ,31,Online,Phone order
+NHF-10057,08/15/2024|Montreal|Canada,Herbal Tea Sampler,Beverage,North America,233.22,CAD , FRESH & FINE  ,Jonas Weber,Completed ,0%,34,Retail,
+NHF-10383,"Aug 04, 2024| Munich | Germany",Herbal Tea Sampler,Beverage,Europe,"188,71",EUR,URBAN PANTRY,Daniel Brooks,processing, 0 % ,26,Retail,Phone order
+NHF-10031, 15 Nov 2024 | Paris | France,Berry Jam 340g,Pantry,Europe,422.50,EUR,  EVERYDAY ESSENTIALS,Megan O'Neil,processing,0,22,Distributor,Manual adjustment
+NHF-10355,2024-02-24 | New York | USA,Whole Wheat Pasta 500g,Pantry,North America,$236.40,usd,Nature Box Ltd,,Completed ,0.15,24,Wholesale,
+NHF-10402,2024-08-27  |  London  |  UK,Maple Granola 500g,Breakfast,Europe,96.58,GBP,Euro  Taste  Hub,Daniel Brooks,Cancelled,N/A,8,Wholesale,Manual adjustment
+NHF-10477,12/08/2024|Lyon|France,Keto Trail Mix 300g,Snacks,Europe,43.19, EUR , Bluebird Grocery ,Jonas Weber,Cancelled,N/A,5,Wholesale,
+NHF-10478,2024-07-26 | Seattle | USA,Sparkling Water 12pk,Beverage,North America,$110.71,USD, nature box ltd ,Jonas Weber,Returned,0%,8,Wholesale,Manual adjustment
+NHF-10456,"Jun 04, 2024 |  Paris  |  France ",Protein Bars 6pk,Snacks,Europe, 237.67 , EUR , Harborline Foods ,Megan O'Neil,completed,0%,23,Retail,Late entry
+NHF-10105,10/17/2024|New York|USA,Protein Bars 6pk,Snacks,North America,87.49,usd,   EVERYDAY ESSENTIALS ,, Shipped,0%,32,Distributor,VIP client
+NHF-10175,2024/02/14 - Paris - France,Electrolyte Drink Mix,Fitness,Europe,"2,366", EUR , Cornerstone Retail ,Megan O'Neil,Returned, 5 % ,44,Retail,
+NHF-10340,"May 18, 2024| London | UK",Sparkling Water 12pk,Beverage,Europe,23.28, gbp ,North Shore Foods,Luca Rossi,Cancelled,0%,6,Retail,
+NHF-10290,28 Mar 2024 | London | UK,Extra Virgin Olive Oil 750ml,Pantry,Europe, 320.23 , gbp ,Harborline Foods,Daniel Brooks,Pending,0%,39,Retail,
+NHF-10260, 08 Jul 2024 | Calgary | Canada,Greek Yogurt Mix,Dairy,North America,53.13, cad ,  Maple  Leaf  Market,Luca Rossi,Pending, 10 % ,8,Distributor,Manual adjustment
+NHF-10140,21-01-2024 | Berlin | Germany,Extra Virgin Olive Oil 750ml,Pantry,Europe,833.39,eur, Fit Fuel Studio ,Megan O'Neil,Cancelled,5%, 46 ,Distributor,Late entry
+NHF-10009, 2024-01-05 | Dublin | Ireland ,Extra Virgin Olive Oil 750ml,Pantry,Europe,$57.62,EUR,The Market Loft,A. Wong,Returned,0.1,5,Distributor,Late entry
+NHF-10494,09 Aug 2024 | Toronto | Canada,Greek Yogurt Mix,Dairy,North America,"21,36",CAD , Euro Taste Hub ,Sophie Tremblay,processing,15%,5,Wholesale,Phone order

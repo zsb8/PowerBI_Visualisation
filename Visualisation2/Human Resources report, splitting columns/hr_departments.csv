@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,Division
+1,Finance,Corporate
+2,Human Resources,Corporate
+3,IT,Technology
+4,Data & Analytics,Technology
+5,Marketing,Sales
+6,Sales,Sales
+7,Customer Support,Operations
+8,Logistics,Operations
+9,Procurement,Operations
+10,Legal,Corporate
+11,Product,Technology
+12,Engineering,Technology
+13,Facilities,Operations
+14,Security,Operations
+15,Executive,Corporate
