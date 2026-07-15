@@ -8,8 +8,14 @@
 <img width="1544" height="1222" alt="image" src="https://github.com/user-attachments/assets/478b3ea1-08bf-4da2-9023-0a8573b2847f" />
 
 # Construction Project Dashboard
-<img width="2786" height="1616" alt="image" src="https://github.com/user-attachments/assets/7f86d65f-cf72-4aad-b553-30bee30a1715" />
-<img width="2668" height="1594" alt="image" src="https://github.com/user-attachments/assets/54348eed-a0cb-4903-ba2b-f721cfaf4801" />
-<img width="2706" height="1468" alt="image" src="https://github.com/user-attachments/assets/13de1454-d833-4197-9903-be3450e77522" />
+<img width="2912" height="1734" alt="image" src="https://github.com/user-attachments/assets/1f6fc844-0346-41fc-aefb-091269dc94f2" />
+<img width="2756" height="1708" alt="image" src="https://github.com/user-attachments/assets/3fb8b047-be91-4ebb-8fbe-981e53f920b3" />
+<img width="2772" height="1700" alt="image" src="https://github.com/user-attachments/assets/a20bc974-2a3a-41ca-b358-5fad07c30fe0" />
+
 
 # Executive Summary KPI Balanced Scorecard
+<img width="2678" height="1756" alt="image" src="https://github.com/user-attachments/assets/fbaadd6a-219d-434e-aa1d-aac417a89f66" />
+<img width="2134" height="722" alt="image" src="https://github.com/user-attachments/assets/90c8ec32-276f-462f-9118-cc8373f04f05" />
+<img width="2814" height="1716" alt="image" src="https://github.com/user-attachments/assets/16470a29-4d34-4bb7-9873-b70224558eda" />
+<img width="2828" height="1688" alt="image" src="https://github.com/user-attachments/assets/492aa7c9-9241-4421-9e18-55b4fdc57b5e" />
+<img width="2844" height="1728" alt="image" src="https://github.com/user-attachments/assets/29dee824-8add-454a-b7d0-66f230c1ef6f" />
